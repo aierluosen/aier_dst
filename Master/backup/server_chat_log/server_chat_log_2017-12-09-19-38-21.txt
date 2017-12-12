@@ -1,0 +1,8 @@
+[00:00:28]: [Announcement] Hound Attack: 1 day left
+[00:00:30]: [Announcement] Hound Attack: 1 day left
+[00:00:49]: [Join Announcement] AierLuosen
+[00:01:10]: [Join Announcement] 提爾詩
+[00:08:19]: [Announcement] Hound Attack: 1 day left
+[00:15:16]: [Leave Announcement] 提爾詩
+[00:16:20]: [Announcement] Hound Attack: Today!
+[00:29:57]: [Leave Announcement] AierLuosen

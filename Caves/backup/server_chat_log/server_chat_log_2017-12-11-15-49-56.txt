@@ -1,0 +1,177 @@
+[00:01:43]: [Join Announcement] AierLuosen
+[00:02:21]: [Join Announcement] ルビー
+[00:02:25]: [Join Announcement] 提爾詩
+[00:02:40]: [Join Announcement] 讓子彈飛一會兒
+[00:04:51]: [Join Announcement] 小幻YUI
+[00:05:11]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: !AZ罵髒話
+[00:05:21]: [Say] (KU_BIj2U1ZB) 提爾詩: !AZck goj3
+[00:05:47]: [Join Announcement] 夜月夏目
+[00:06:33]: [Join Announcement] Haron
+[00:07:09]: [Join Announcement] 阿薩謝爾
+[00:09:04]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我是第一個害死他的
+[00:10:15]: [Say] (KU_VOig0Obi) 阿薩謝爾: 吱喳
+[00:16:14]: [Say] (KU_TtsjKcrU) AierLuosen: 要升理智的來我這個位置
+[00:18:16]: [Say] (KU_VOig0Obi) 阿薩謝爾:  (Sanity: 8/100) We aren't scared of you, scary things!
+[00:19:40]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 兔人。她變成了一個令人毛骨悚然的鬼！
+[00:20:52]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 ルビー.
+[00:24:29]: [Say] (KU_TtsjKcrU) AierLuosen: 等等打蜂后?
+[00:29:56]: [Say] (KU_VOig0Obi) 阿薩謝爾: 屎塊永不消逝
+[00:31:00]: [Announcement] Hound Attack: 2 days left
+[00:34:59]: [Say] (KU_3aPAZWmD) ルビー: 艾爾 我可以在曬肉架那邊蓋個冰箱放待曬的肉跟種子嗎? OWO
+[00:35:07]: [Say] (KU_TtsjKcrU) AierLuosen: 好
+[00:35:30]: [Join Announcement] 玉米貓
+[00:35:35]: [Say] (KU_3aPAZWmD) ルビー: 阿 接葛洛姆
+[00:37:40]: [Say] (KU_VOig0Obi) 阿薩謝爾: 甚麼都好 就是不要LAG
+[00:37:45]: [Leave Announcement] 小幻YUI
+[00:38:05]: [Leave Announcement] 夜月夏目
+[00:39:01]: [Announcement] Hound Attack: 1 day left
+[00:39:02]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 豬人。她變成了一個令人毛骨悚然的鬼！
+[00:39:15]: [Say] (KU_3aPAZWmD) ルビー: 玉米貓進來的不是時機
+[00:39:33]: [Say] (KU_VOig0Obi) 阿薩謝爾: 子彈:FK this game
+[00:39:44]: [Say] (KU_3RvV9UB5) 玉米貓: 對..對不起
+[00:39:47]: [Join Announcement] 小幻YUI
+[00:39:48]: [Vote Announcement] rollback passed
+[00:40:19]: [Announcement] Hound Attack: 1 day left
+[00:40:39]: [Announcement] Hound Attack: 1 day left
+[00:40:39]: [Leave Announcement] 讓子彈飛一會兒
+[00:41:19]: [Join Announcement] 讓子彈飛一會兒
+[00:41:39]: [Say] (KU_3aPAZWmD) ルビー: 回2天?
+[00:41:50]: [Say] (KU_VOig0Obi) 阿薩謝爾: Best song ever
+[00:42:23]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 重生護符.
+[00:42:47]: [Say] (KU_3aPAZWmD) ルビー: 這樣我也沒刷到豬皮 =兒=
+[00:42:51]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[00:48:14]: [Say] (KU_3RvV9UB5) 玉米貓: 那我先下，以表歉意ww
+[00:48:20]: [Announcement] Hound Attack: Today!
+[00:48:24]: [Say] (KU_TtsjKcrU) AierLuosen: 沒事沒事
+[00:48:32]: [Leave Announcement] 玉米貓
+[00:48:36]: [Say] (KU_TtsjKcrU) AierLuosen: 狗狗今天
+[00:49:19]: [Say] (KU_3aPAZWmD) ルビー: 種子跟生肉請放曬肉架旁的冰箱
+[00:49:27]: [Say] (KU_TtsjKcrU) AierLuosen: 好窩
+[00:51:54]: [Say] (KU_TtsjKcrU) AierLuosen: 注意今天的狗狗~
+[00:54:32]: [Say] (KU_VOig0Obi) 阿薩謝爾:  (44�) I'm  at a comfortable temperature.
+[00:56:01]: [Leave Announcement] 阿薩謝爾
+[01:01:06]: [Skin Announcement] Haron body_polo_red_higgsbury
+[01:01:15]: [Death Announcement] 提爾詩 死亡，死因： 深淵蠕蟲。他變成了一個令人毛骨悚然的鬼！
+[01:05:21]: [Resurrect Announcement] 提爾詩 復活自 ルビー.
+[01:10:26]: [Join Announcement] 崎三 :heart:
+[01:11:58]: [Join Announcement] weisXweis
+[01:12:01]: [Say] (KU_3aPAZWmD) ルビー: 生肉放曬肉架那邊 OAO
+[01:12:20]: [Say] (KU_kvsppBcz) weisXweis: 報告我開台可否(雖然已經開了
+[01:12:22]: [Announcement] Hound Attack: 2 days left
+[01:12:32]: [Say] (KU_TtsjKcrU) AierLuosen: 好啊 都可
+[01:12:43]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 10美
+[01:14:31]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我的姐姐不見了
+[01:17:50]: [Say] (KU_3aPAZWmD) ルビー: 快快的螢光果我餵豬囉?
+[01:18:00]: [Say] (KU_3aPAZWmD) ルビー: #快壞
+[01:20:23]: [Announcement] Hound Attack: 1 day left
+[01:20:47]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 怪物肉明天就送到啦
+[01:22:11]: [Leave Announcement] Haron
+[01:24:42]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 0.0
+[01:24:58]: [Say] (KU_TtsjKcrU) AierLuosen: 那個不能亂玩0.0
+[01:25:07]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我想推鹿比 XD 按到地板
+[01:25:25]: [Say] (KU_TtsjKcrU) AierLuosen: 遠古的東西不要玩
+[01:26:12]: [Join Announcement] 夜月夏目
+[01:26:51]: [Join Announcement] 玉米貓
+[01:26:54]: [Say] (KU_g0ecL7wy) 崎三 :heart:: rich
+[01:28:10]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 0.0
+[01:28:25]: [Announcement] Hound Attack: Today!
+[01:28:25]: [Leave Announcement] 夜月夏目
+[01:28:43]: [Skin Announcement] 崎三 :heart: body_sweatervest_grey_silver
+[01:30:53]: [Say] (KU_g0ecL7wy) 崎三 :heart:: lag
+[01:31:19]: [Death Announcement] 小幻YUI 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[01:31:30]: [Vote Announcement] rollback passed
+[01:32:02]: [Announcement] Hound Attack: Today!
+[01:32:21]: [Announcement] Hound Attack: Today!
+[01:32:21]: [Leave Announcement] 小幻YUI
+[01:32:39]: [Skin Announcement] weisXweis feet_bootie_black_scribble
+[01:32:53]: [Join Announcement] 小幻YUI
+[01:36:11]: [Say] (KU_3aPAZWmD) ルビー: OWO
+[01:36:21]: [Say] (KU_g0ecL7wy) 崎三 :heart:: !rubyowo
+[01:44:28]: [Leave Announcement] weisXweis
+[01:46:02]: [Join Announcement] weisXweis
+[01:48:11]: [Announcement] Hound Attack: 2 days left
+[01:50:38]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 要冬天了?
+[01:50:43]: [Say] (KU_g0ecL7wy) 崎三 :heart:: o
+[01:54:36]: [Death Announcement] 玉米貓 死亡，死因： 眼球草。它們變成了一個令人毛骨悚然的鬼！
+[01:54:45]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 眼球草 :O
+[01:56:12]: [Announcement] Hound Attack: 1 day left
+[01:56:22]: [Resurrect Announcement] 玉米貓 復活自 崎三 :heart:.
+[01:56:28]: [Say] (KU_g0ecL7wy) 崎三 :heart:: xd
+[01:58:20]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: (拿起電話
+[01:59:23]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 打狗PETA
+[02:00:32]: [Say] (KU_3aPAZWmD) ルビー: 有
+[02:00:37]: [Leave Announcement] 提爾詩
+[02:04:13]: [Announcement] Hound Attack: Today!
+[02:04:35]: [Join Announcement] 提爾詩
+[02:04:52]: [Death Announcement] ルビー 死亡，死因： 獵犬。他變成了一個令人毛骨悚然的鬼！
+[02:05:37]: [Resurrect Announcement] ルビー 復活自 崎三 :heart:.
+[02:05:47]: [Say] (KU_g0ecL7wy) 崎三 :heart:: lag
+[02:05:59]: [Say] (KU_3aPAZWmD) ルビー: 回朔一天?
+[02:06:05]: [Vote Announcement] rollback passed
+[02:06:35]: [Announcement] Hound Attack: Today!
+[02:06:54]: [Announcement] Hound Attack: Today!
+[02:07:03]: [Leave Announcement] 玉米貓
+[02:07:18]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 走難啦
+[02:07:53]: [Death Announcement] weisXweis 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[02:08:17]: [Resurrect Announcement] weisXweis 復活自 重生護符.
+[02:11:15]: [Join Announcement] 玉米貓
+[02:14:13]: [Death Announcement] weisXweis 死亡，死因： 觸手。他變成了一個令人毛骨悚然的鬼！
+[02:14:23]: [Resurrect Announcement] weisXweis 復活自 ルビー.
+[02:14:29]: [Death Announcement] weisXweis 死亡，死因： 觸手。他變成了一個令人毛骨悚然的鬼！
+[02:14:42]: [Resurrect Announcement] weisXweis 復活自 ルビー.
+[02:19:23]: [Say] (KU_g0ecL7wy) 崎三 :heart:: ?
+[02:20:12]: [Say] (KU_3aPAZWmD) ルビー: 6666
+[02:20:34]: [Say] (KU_TtsjKcrU) AierLuosen: 拿了之後要放回去
+[02:20:40]: [Say] (KU_TtsjKcrU) AierLuosen: 骨護甲
+[02:20:46]: [Say] (KU_TtsjKcrU) AierLuosen: 那些不要拿
+[02:21:49]: [Say] (KU_3aPAZWmD) ルビー: 愛小吃 火龍果派~ 水餃~
+[02:21:56]: [Say] (KU_3aPAZWmD) ルビー: #賣
+[02:26:52]: [Say] (KU_TtsjKcrU) AierLuosen: 把橘寶石法杖放回去箱子裡
+[02:27:00]: [Say] (KU_TtsjKcrU) AierLuosen: 那是拿來打影魔用的
+[02:27:08]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 教官鹿比
+[02:27:11]: [Say] (KU_TtsjKcrU) AierLuosen: K3放回去喔
+[02:27:11]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 不然你會出現在曬肉架
+[02:27:21]: [Say] (KU_3RvV9UB5) 玉米貓: 兇
+[02:27:25]: [Say] (KU_3RvV9UB5) 玉米貓: 怕
+[02:27:30]: [Say] (KU_3RvV9UB5) 玉米貓: QAQ
+[02:27:34]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 怕了吧
+[02:29:06]: [Say] (KU_TtsjKcrU) AierLuosen: K3法杖放下
+[02:29:28]: [Say] (KU_TtsjKcrU) AierLuosen: 不要拿那隻
+[02:30:00]: [Say] (KU_g0ecL7wy) 崎三 :heart:: XD
+[02:30:14]: [Say] (KU_g0ecL7wy) 崎三 :heart:: lol
+[02:30:55]: [Say] (KU_TtsjKcrU) AierLuosen: 是誰開了我的紅包!!!!!!
+[02:31:08]: [Say] (KU_3RvV9UB5) 玉米貓: 不是我~~
+[02:32:17]: [Leave Announcement] 玉米貓
+[02:34:04]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我的玉米!(嘿)好像一隻貓!
+[02:35:48]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 不要檢到BOOM
+[02:37:12]: [Say] (KU_TtsjKcrU) AierLuosen: 鹿比有學空包裹嗎
+[02:37:19]: [Say] (KU_3aPAZWmD) ルビー: 有
+[02:46:25]: [Say] (KU_3aPAZWmD) ルビー: 維斯戴帽子
+[02:46:29]: [Say] (KU_3aPAZWmD) ルビー: OK
+[02:46:40]: [Announcement] Hound Attack: 2 days left
+[02:54:41]: [Announcement] Hound Attack: 1 day left
+[03:01:28]: [Leave Announcement] 讓子彈飛一會兒
+[03:02:25]: [Join Announcement] 讓子彈飛一會兒
+[03:02:41]: [Announcement] Hound Attack: Today!
+[03:10:15]: [Leave Announcement] 提爾詩
+[03:16:56]: [Say] (KU_g0ecL7wy) 崎三 :heart:: a_a
+[03:17:08]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 我不需要帽子 :D
+[03:19:39]: [Say] (KU_3aPAZWmD) ルビー: 資源夠的話 可以在各地蓋計程車站 (X
+[03:22:35]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 好我睡了 快3點了
+[03:22:42]: [Say] (KU_g0ecL7wy) 崎三 :heart:: 晚安
+[03:22:58]: [Leave Announcement] 崎三 :heart:
+[03:26:29]: [Death Announcement] ルビー 死亡，死因： 豬人。他變成了一個令人毛骨悚然的鬼！
+[03:26:44]: [Announcement] Hound Attack: 2 days left
+[03:26:59]: [Resurrect Announcement] ルビー 復活自 讓子彈飛一會兒.
+[03:27:08]: [Say] (KU_3aPAZWmD) ルビー: 3Q
+[03:27:59]: [Say] (KU_3aPAZWmD) ルビー: 太貪了 豬皮也被吃掉 QWQ
+[03:29:04]: [Leave Announcement] 小幻YUI
+[03:29:29]: [Skin Announcement] weisXweis body_trimmed_blouse_yellow_flax
+[03:29:54]: [Leave Announcement] 讓子彈飛一會兒
+[03:34:45]: [Announcement] Hound Attack: 1 day left
+[03:34:54]: [Say] (KU_TtsjKcrU) AierLuosen: 關了~
+[03:34:57]: [Say] (KU_3aPAZWmD) ルビー: OK
+[03:34:59]: [Say] (KU_TtsjKcrU) AierLuosen: 各位晚安
+[03:35:08]: [Say] (KU_3aPAZWmD) ルビー: 晚安/
+[03:35:16]: [Leave Announcement] AierLuosen
+[03:35:21]: [Leave Announcement] weisXweis

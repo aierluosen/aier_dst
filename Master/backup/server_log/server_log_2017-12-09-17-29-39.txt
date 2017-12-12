@@ -1,0 +1,2166 @@
+[00:00:01]: 
+System Memory:
+	Memory Load: 34%
+	Available Physical Memory: 10725m/16284m
+	Available Page File: 26696m/32566m
+	Available Virtual Memory: 3989m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:01]: 
+Process Memory:
+	Peak Working Set Size: 27m
+	Working Set Size: 27m
+	Quota Peak Page Pool Usage: 192k
+	Quota Page Pool Usage: 189k
+	Quota Peak Non Paged Pool Usage:15k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 5m
+	Peak Page File Usage: 6m
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 244816
+[00:00:01]: Current time: Sat Dec 09 00:54:32 2017
+
+[00:00:01]: Don't Starve Together: 244816 WIN32
+[00:00:01]: Build Date: 2660
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: -monitor_parent_process 336564 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198251790870 -backup_log_count 10 -shard Master -sigprefix DST_Master 
+[00:00:01]: Initializing distribution platform
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (343204)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: ProfileIndex:4.53
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (343432)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198251790870
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 7 旗艦版 
+    version                   6.1.7601
+    architecture              64-bit
+    platformSpecific          SP 1.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD FX(tm)-8320 Eight-Core Processor           
+    manufacturer              AuthenticAMD
+    clockSpeed                3500
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      NVIDIA GeForce GTX 750 Ti
+    driverDate                20150722000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             10.18.13.5362
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: DownloadMods(0)
+[00:00:01]: modoverrides.lua enabling workshop-818739975	
+[00:00:01]: modoverrides.lua enabling workshop-626893945	
+[00:00:01]: modoverrides.lua enabling workshop-588560555	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-447092740	
+[00:00:01]: modoverrides.lua enabling workshop-770901818	
+[00:00:01]: modoverrides.lua enabling workshop-501385076	
+[00:00:01]: modoverrides.lua enabling workshop-1111711682	
+[00:00:01]: modoverrides.lua enabling workshop-677991540	
+[00:00:01]: modoverrides.lua enabling workshop-375859599	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-447092740_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-447092740 (More Actions) Version:1.2.9	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-501385076 (Quick Pick) Version:1.0.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-588560555_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-588560555 (Auto Hound Reset) Version:1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-626893945_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-626893945 (  自定义修改) Version:0.2.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-677991540_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-677991540 (Maxwell Stuff) Version:1.0.a	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-770901818_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-770901818 (Hound Attack) Version:0.2.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-818739975_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:01]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:01]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:01]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:01]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:01]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:01]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:01]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:01]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:01]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:01]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:01]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:01]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:01]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:01]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:01]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:01]: Loading mod: workshop-818739975 (Adshovel) Version:1.6	
+[00:00:01]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:01]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:01]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[00:00:03]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[00:00:03]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[00:00:03]: [adai] 強制伺服器開啟中文化 mod	
+[00:00:03]: [adai] 中文化修復完成。	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-447092740 (More Actions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-447092740 (More Actions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-447092740 (More Actions)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-677991540 (Maxwell Stuff)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-770901818 (Hound Attack)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-770901818 (Hound Attack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-770901818 (Hound Attack)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-588560555 (Auto Hound Reset)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-818739975 (Adshovel)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-818739975 (Adshovel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-818739975 (Adshovel)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-626893945 (  自定义修改)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-626893945 (  自定义修改)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-626893945 (  自定义修改)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering mod namespace "workshop-378160973"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:07]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:07]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-447092740 (More Actions)	Registering prefabs	
+[00:00:07]: Mod: workshop-447092740 (More Actions)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	Registering prefabs	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p_placer	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_flame2	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_flame2	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwellthrone_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p_placer	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-770901818 (Hound Attack)	Registering prefabs	
+[00:00:07]: Mod: workshop-770901818 (Hound Attack)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-588560555 (Auto Hound Reset)	Registering prefabs	
+[00:00:07]: Mod: workshop-588560555 (Auto Hound Reset)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	Registering prefabs	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cave_banana_tree	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_lichen	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_lichen	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_lichen_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cactus_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_flower_cave	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_reeds	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_reeds	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_reeds_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_shrooms	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_oasis_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_wormlight_plant	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-626893945 (  自定义修改)	Registering prefabs	
+[00:00:07]: Mod: workshop-626893945 (  自定义修改)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:08]: [IPC] Signal 'DST_Master_Kill' opened  #0000032C
+[00:00:08]: [IPC] Registering handler for signal #0000032C
+[00:00:08]: [IPC] Handle #0000032C added to the Eventhandles
+[00:00:08]: [IPC] Signal 'DST_Master_Starting' opened  #0000031C
+[00:00:08]: [IPC] Sending signal... #0000031C
+[00:00:09]: [200] Account Communication Success (6)
+[00:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[00:00:09]: Starting Dedicated Server Game	
+[00:00:09]: Network tick rate: U=15(2), D=0
+[00:00:09]: About to start a server with the following settings:
+[00:00:09]:   Dedicated: true
+[00:00:09]:   Online: true
+[00:00:09]:   Passworded: true
+[00:00:09]:   ServerPort: 10999
+[00:00:09]:   SteamAuthPort: 8766
+[00:00:09]:   SteamMasterServerPort: 27016
+[00:00:09]:   ClanID: false
+[00:00:09]:   ClanOnly: false
+[00:00:09]:   ClanAdmin: false
+[00:00:09]:   LanOnly: false
+[00:00:09]:   FriendsOnly: false
+[00:00:09]:   EnableAutosaver: true
+[00:00:09]:   EncodeUserPath: false
+[00:00:09]:   PVP: false
+[00:00:09]:   MaxPlayers: 6
+[00:00:09]:   GameMode: endless
+[00:00:09]:   OverridenDNS: 
+[00:00:09]:   PauseWhenEmpty: true
+[00:00:09]:   IdleTimeout: 1800s
+[00:00:09]:   VoteEnabled: false
+[00:00:09]:   InternetBroadcasting: true
+[00:00:09]:   Intent: social
+[00:00:09]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-447092740	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-677991540	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-818739975	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-588560555	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:09]: Online Server Started on port: 10999
+[00:00:09]: unloading prefabs for mod MOD_workshop-375859599	
+[00:00:09]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:00:09]: unloading prefabs for mod MOD_workshop-501385076	
+[00:00:09]: unloading prefabs for mod MOD_workshop-447092740	
+[00:00:09]: unloading prefabs for mod MOD_workshop-677991540	
+[00:00:09]: unloading prefabs for mod MOD_workshop-770901818	
+[00:00:09]: unloading prefabs for mod MOD_workshop-588560555	
+[00:00:09]: unloading prefabs for mod MOD_workshop-818739975	
+[00:00:09]: unloading prefabs for mod MOD_workshop-626893945	
+[00:00:09]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.03 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: lua_close took 0.04 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:09]:   taskgrouplist:	default	Together	
+[00:00:09]:   taskgrouplist:	classic	Classic	
+[00:00:09]:   taskgrouplist:	cave_default	Underground	
+[00:00:09]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:09]: running main.lua
+	
+[00:00:09]: loaded modindex	
+[00:00:09]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:09]: modoverrides.lua enabling workshop-818739975	
+[00:00:09]: modoverrides.lua enabling workshop-626893945	
+[00:00:09]: modoverrides.lua enabling workshop-588560555	
+[00:00:09]: modoverrides.lua enabling workshop-378160973	
+[00:00:09]: modoverrides.lua enabling workshop-447092740	
+[00:00:09]: modoverrides.lua enabling workshop-770901818	
+[00:00:09]: modoverrides.lua enabling workshop-501385076	
+[00:00:09]: modoverrides.lua enabling workshop-1111711682	
+[00:00:09]: modoverrides.lua enabling workshop-677991540	
+[00:00:09]: modoverrides.lua enabling workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-447092740 (More Actions) Version:1.2.9	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-501385076 (Quick Pick) Version:1.0.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-588560555 (Auto Hound Reset) Version:1.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-626893945	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-626893945 (  自定义修改) Version:0.2.0	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-677991540	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-677991540 (Maxwell Stuff) Version:1.0.a	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-770901818	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-770901818 (Hound Attack) Version:0.2.0	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-818739975	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-818739975	
+[00:00:09]: Overriding mod workshop-818739975's option DFV_Language with value EN	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-626893945	
+[00:00:09]: Overriding mod workshop-626893945's option SIZESMALLITEM with value 6	
+[00:00:09]: Overriding mod workshop-626893945's option SIZEMEDITEM with value 5	
+[00:00:09]: Overriding mod workshop-626893945's option TENSIESTACANOPYUSES with value 99999	
+[00:00:09]: Overriding mod workshop-626893945's option SIZELARGEITEM with value 4	
+[00:00:09]: Overriding mod workshop-626893945's option PERISHFRIDGE with value 0.1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-588560555	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-447092740	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-770901818	
+[00:00:09]: Overriding mod workshop-770901818's option enable_houndattack with value true	
+[00:00:09]: Overriding mod workshop-770901818's option format with value complex	
+[00:00:09]: Overriding mod workshop-770901818's option days with value 2	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1111711682	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-677991540	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELLIGHT with value Hard	
+[00:00:09]: Overriding mod workshop-677991540's option CRAFTLEVELTHRONE with value Easy0	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-818739975 (Adshovel) Version:1.6	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:09]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:09]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[00:00:11]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[00:00:11]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[00:00:11]: [adai] 中文化修復完成。	
+[00:00:11]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-447092740 (More Actions)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-447092740 (More Actions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-447092740 (More Actions)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-677991540 (Maxwell Stuff)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-770901818 (Hound Attack)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-770901818 (Hound Attack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-770901818 (Hound Attack)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-588560555 (Auto Hound Reset)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-818739975 (Adshovel)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-818739975 (Adshovel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-818739975 (Adshovel)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-626893945 (  自定义修改)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-626893945 (  自定义修改)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-626893945 (  自定义修改)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:12]: LOADING LUA SUCCESS
+[00:00:12]: Registering mod namespace "workshop-378160973"
+[00:00:12]: PlayerDeaths could not load morgue	
+[00:00:12]: PlayerHistory could not load player_history	
+[00:00:12]: bloom_enabled	false	
+[00:00:12]: loaded saveindex	
+[00:00:12]: OnFilesLoaded()	
+[00:00:12]: OnUpdatePurchaseStateComplete	
+[00:00:12]: 	Unload FE	
+[00:00:12]: 	Unload FE done	
+[00:00:13]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:13]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:13]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:13]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-447092740 (More Actions)	Registering prefabs	
+[00:00:13]: Mod: workshop-447092740 (More Actions)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	Registering prefabs	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p_placer	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_flame2	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_flame2	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwellthrone_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p_placer	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-770901818 (Hound Attack)	Registering prefabs	
+[00:00:13]: Mod: workshop-770901818 (Hound Attack)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-588560555 (Auto Hound Reset)	Registering prefabs	
+[00:00:13]: Mod: workshop-588560555 (Auto Hound Reset)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	Registering prefabs	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cave_banana_tree	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_lichen	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_lichen	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_lichen_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cactus_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_flower_cave	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_reeds	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_reeds	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_reeds_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_shrooms	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_oasis_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_wormlight_plant	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-626893945 (  自定义修改)	Registering prefabs	
+[00:00:13]: Mod: workshop-626893945 (  自定义修改)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:13]: 	LOAD BE	
+[00:00:16]: 	LOAD BE: done	
+[00:00:16]: Loading world: session/76D34F6E3AE97ED5/0000003867	
+[00:00:16]: Save file is at version 4.77	
+[00:00:16]: Begin Session: 76D34F6E3AE97ED5
+[00:00:16]: saving to server_temp/server_save	
+[00:00:17]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:17]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:17]: Loading Nav Grid	
+[00:00:17]: setting 	summerlength	10	
+[00:00:17]: setting 	isnightmaredawn	false	
+[00:00:17]: setting 	elapseddaysinseason	6	
+[00:00:17]: setting 	isfullmoon	false	
+[00:00:17]: setting 	moisture	1792.8594970703	
+[00:00:17]: setting 	springlength	20	
+[00:00:17]: setting 	isnightmarewild	false	
+[00:00:17]: setting 	moonphase	half	
+[00:00:17]: setting 	precipitationrate	0	
+[00:00:17]: setting 	iswet	false	
+[00:00:17]: setting 	isnewmoon	false	
+[00:00:17]: setting 	iswinter	false	
+[00:00:17]: setting 	israining	false	
+[00:00:17]: setting 	isnightmarewarn	false	
+[00:00:17]: setting 	precipitation	none	
+[00:00:17]: setting 	cavephase	night	
+[00:00:17]: setting 	moistureceil	4355.0693359375	
+[00:00:17]: setting 	isday	false	
+[00:00:17]: setting 	iscaveday	false	
+[00:00:17]: setting 	season	summer	
+[00:00:17]: setting 	timeinphase	0.0065905253092448	
+[00:00:17]: setting 	temperature	89.215391664882	
+[00:00:17]: setting 	isnightmarecalm	false	
+[00:00:17]: setting 	isnight	true	
+[00:00:17]: setting 	isdusk	false	
+[00:00:17]: setting 	iscavedusk	false	
+[00:00:17]: setting 	isautumn	false	
+[00:00:17]: setting 	issnowing	false	
+[00:00:17]: setting 	iswaxingmoon	false	
+[00:00:17]: setting 	pop	0.27957861284815	
+[00:00:17]: setting 	snowlevel	0	
+[00:00:17]: setting 	issnowcovered	false	
+[00:00:17]: setting 	autumnlength	30	
+[00:00:17]: setting 	phase	night	
+[00:00:17]: setting 	nightmaretime	0	
+[00:00:17]: setting 	winterlength	10	
+[00:00:17]: setting 	isspring	false	
+[00:00:17]: setting 	nightmarephase	none	
+[00:00:17]: setting 	remainingdaysinseason	4	
+[00:00:17]: setting 	cycles	3216	
+[00:00:17]: setting 	iscavenight	true	
+[00:00:17]: setting 	nightmaretimeinphase	0	
+[00:00:17]: setting 	wetness	0	
+[00:00:17]: setting 	time	0.75164763132731	
+[00:00:17]: setting 	issummer	true	
+[00:00:17]: OVERRIDE: setting	liefs	to	often	
+[00:00:17]: OVERRIDE: setting	deciduousmonster	to	never	
+[00:00:17]: OVERRIDE: setting	krampus	to	rare	
+[00:00:17]: OVERRIDE: setting	perd	to	rare	
+[00:00:28]: Reconstructing topology	
+[00:00:28]: 	...Sorting points	
+[00:00:28]: 	...Sorting edges	
+[00:00:28]: 	...Connecting nodes	
+[00:00:28]: 	...Validating connections	
+[00:00:28]: 	...Housekeeping	
+[00:00:28]: 	...Done!	
+[00:00:28]: Hound attack: 2174.5517086926	
+[00:00:28]: 1 uploads added to server. From server_temp
+[00:00:28]: About to start a shard with these settings:
+[00:00:28]:   ShardName: [SHDMASTER]
+[00:00:28]:   ShardID: 1
+[00:00:28]:   ShardRole: MASTER
+[00:00:28]:   MasterHost: (null)
+[00:00:28]:   MasterBind: 127.0.0.1
+[00:00:28]:   MasterPort: 10888
+[00:00:28]: [Shard] Starting master server
+[00:00:28]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:28]: [Shard] Shard server started on port: 10888
+[00:00:28]: [IPC] Signal 'DST_Master_Ready' opened  #000003E8
+[00:00:28]: [IPC] Sending signal... #000003E8
+[00:00:28]: Telling Client our new session identifier: 76D34F6E3AE97ED5
+[00:00:28]: ModIndex: Load sequence finished successfully.	
+[00:00:30]: Reset() returning
+[00:00:30]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:30]: [Steam] SteamGameServer_Init success
+[00:00:31]: Validating portal[6] <-> 3462456582[6] (inactive)	
+[00:00:31]: Validating portal[7] <-> 3462456582[7] (inactive)	
+[00:00:31]: Validating portal[2] <-> 3462456582[2] (inactive)	
+[00:00:31]: Validating portal[3] <-> 3462456582[3] (inactive)	
+[00:00:31]: Validating portal[4] <-> 3462456582[4] (inactive)	
+[00:00:31]: Validating portal[10] <-> 3462456582[10] (inactive)	
+[00:00:31]: Validating portal[1] <-> 3462456582[1] (inactive)	
+[00:00:31]: Validating portal[9] <-> 3462456582[9] (inactive)	
+[00:00:31]: Validating portal[8] <-> 3462456582[8] (inactive)	
+[00:00:31]: Validating portal[5] <-> 3462456582[5] (inactive)	
+[00:00:31]: Hound attack: 2174.5517086926	
+[00:00:31]: Sim paused
+[00:00:32]: [Shard] Slave Caves(3462456582) connected: [LAN] 127.0.0.1
+[00:00:34]: [Shard] Slave Caves(3462456582) ready!
+[00:00:34]: World 3462456582 is now connected	
+[00:00:34]: Validating portal[6] <-> 3462456582[6] (active)	
+[00:00:34]: Validating portal[7] <-> 3462456582[7] (active)	
+[00:00:34]: Validating portal[2] <-> 3462456582[2] (active)	
+[00:00:34]: Validating portal[3] <-> 3462456582[3] (active)	
+[00:00:34]: Validating portal[4] <-> 3462456582[4] (active)	
+[00:00:34]: Validating portal[10] <-> 3462456582[10] (active)	
+[00:00:34]: Validating portal[1] <-> 3462456582[1] (active)	
+[00:00:34]: Validating portal[9] <-> 3462456582[9] (active)	
+[00:00:34]: Validating portal[8] <-> 3462456582[8] (active)	
+[00:00:34]: Validating portal[5] <-> 3462456582[5] (active)	
+[00:00:36]: New incoming connection 127.0.0.1|55477 <5697668516867938556>
+[00:00:36]: Client connected from [LAN] 127.0.0.1|55477 <5697668516867938556>
+[00:00:36]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^yOV7h2NeqL3hUNd1fWUKSFQ7IpANYG8EaKgAdga9C6o= for <5697668516867938556>
+[00:00:36]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:00:36]: [Steam] Authenticated host '76561198251790870'
+[00:00:39]: [Shard] Read save location file for (KU_TtsjKcrU)
+[00:00:51]: Resuming user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003867
+[00:00:51]: Spawning player at: [Load] (264.44, 0.00, -99.39)	
+[00:00:51]: Sim unpaused
+[00:02:29]: KU_TtsjKcrU	running text command:	flex	true	
+[00:02:43]: KU_TtsjKcrU	running text command:	flex	true	
+[00:02:50]: Hound attack: 2055.418369146	
+[00:02:51]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003868
+[00:02:52]: Serializing world: session/76D34F6E3AE97ED5/0000003868
+[00:04:03]: [P2P] Session request for '76561198286499269'
+[00:04:06]: [P2P] Create session: 122.38.241.65|1 '76561198286499269'
+[00:04:06]: [P2P] Received from 122.38.241.65|1 '76561198286499269'
+[00:04:06]: [P2P] Sent to 122.38.241.65|1 '76561198286499269'
+[00:04:12]: New incoming connection 122.38.241.65|1 <9188323863201916898>
+[00:04:12]: Client connected from 122.38.241.65|1 <9188323863201916898>
+[00:04:12]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^41gbuG1NJUSZjQhgTB2BQ/BOyWq1pV/8yS9UffIPVZE= for <9188323863201916898>
+[00:04:13]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[00:04:13]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[00:04:14]: [Steam] Authenticated client '76561198286499269'
+[00:04:17]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[00:04:29]: Resuming user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003867
+[00:04:29]: Spawning player at: [Load] (272.81, 0.00, -106.14)	
+[00:07:48]: [P2P] Session request for '76561198189824466'
+[00:07:53]: [P2P] Create session: 122.38.241.66|1 '76561198189824466'
+[00:07:53]: [P2P] Received from 122.38.241.66|1 '76561198189824466'
+[00:07:53]: [P2P] Sent to 122.38.241.66|1 '76561198189824466'
+[00:07:54]: New incoming connection 122.38.241.66|1 <9007605835107931409>
+[00:07:54]: Client connected from 122.38.241.66|1 <9007605835107931409>
+[00:07:54]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^/mCmk5vkRNG1IcSI1AcXDb7KnTmqvO/1fdhtleCeEl4= for <9007605835107931409>
+[00:07:55]: Client authenticated: (KU_3aPAZWmD) ルビー
+[00:07:55]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[00:07:55]: [Steam] Authenticated client '76561198189824466'
+[00:07:58]: [Shard] Read save location file for (KU_3aPAZWmD)
+[00:08:30]: Resuming user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003867
+[00:08:31]: Spawning player at: [Load] (262.29, 0.00, -96.55)	
+[00:10:51]: Hound attack: 1575.418344112	
+[00:10:52]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003869
+[00:10:52]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003869
+[00:10:52]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003869
+[00:10:52]: Serializing world: session/76D34F6E3AE97ED5/0000003869
+[00:18:51]: Hound attack: 1095.4516524131	
+[00:18:53]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003870
+[00:18:53]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003870
+[00:18:53]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003870
+[00:18:53]: Serializing world: session/76D34F6E3AE97ED5/0000003870
+[00:26:52]: Hound attack: 615.4516273792	
+[00:26:53]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003871
+[00:26:53]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003871
+[00:26:53]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003871
+[00:26:54]: Serializing world: session/76D34F6E3AE97ED5/0000003871
+[00:30:09]: [200] Account Communication Success (6)
+[00:30:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[00:34:53]: Hound attack: 135.48493568032	
+[00:34:54]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003872
+[00:34:54]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003872
+[00:34:54]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003872
+[00:34:55]: Serializing world: session/76D34F6E3AE97ED5/0000003872
+[00:36:20]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(355.74, -14.84)
+[00:36:20]: Finding a 	stagehand	
+[00:36:20]: Found 116343 (1/1)	
+[00:42:54]: Hound attack: 2877.9681703366	
+[00:42:55]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003873
+[00:42:55]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003873
+[00:42:55]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003873
+[00:42:55]: Serializing world: session/76D34F6E3AE97ED5/0000003873
+[00:48:53]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(53.38, -34.63)
+[00:48:53]: Finding a 	stagehand	
+[00:48:53]: Found 116343 (1/1)	
+[00:50:54]: Hound attack: 2398.0014786377	
+[00:50:56]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003874
+[00:50:56]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003874
+[00:50:56]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003874
+[00:50:56]: Serializing world: session/76D34F6E3AE97ED5/0000003874
+[00:52:24]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(53.36, -116.20)
+[00:52:24]: Finding a 	stagehand	
+[00:52:24]: Found 116343 (1/1)	
+[00:55:14]: Failed to send server listings
+[00:55:14]: Failure error code received: 504
+[00:55:14]: With Body: 
+[00:55:14]: [Error] Sending startup error to client: Master server broadcast failed
+[00:55:14]: [IPC] Signal 'DST_Master_ErrStartup' opened  #00000768
+[00:55:14]: [IPC] Sending signal... #00000768
+[00:58:55]: Hound attack: 1918.0347869388	
+[00:58:56]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003875
+[00:58:56]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003875
+[00:58:56]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003875
+[00:58:57]: Serializing world: session/76D34F6E3AE97ED5/0000003875
+[00:59:18]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(107.05, -165.38)
+[00:59:18]: Finding a 	stagehand	
+[00:59:18]: Found 116343 (1/1)	
+[01:00:09]: [200] Account Communication Success (6)
+[01:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[01:04:46]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("pigking") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(280.18, -73.98)
+[01:04:46]: Finding a 	pigking	
+[01:04:46]: Found 113879 (1/1)	
+[01:05:20]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(-616.75, -0.61)
+[01:05:20]: Finding a 	stagehand	
+[01:05:20]: Found 116343 (1/1)	
+[01:06:56]: Hound attack: 1438.0347619049	
+[01:06:57]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003876
+[01:06:57]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003876
+[01:06:57]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003876
+[01:06:58]: Serializing world: session/76D34F6E3AE97ED5/0000003876
+[01:07:53]: [P2P] Session request for '76561198074627101'
+[01:07:57]: [P2P] Create session: 122.38.241.67|1 '76561198074627101'
+[01:07:57]: [P2P] Received from 122.38.241.67|1 '76561198074627101'
+[01:07:57]: [P2P] Sent to 122.38.241.67|1 '76561198074627101'
+[01:07:57]: New incoming connection 122.38.241.67|1 <1225282328211157168>
+[01:07:57]: Client connected from 122.38.241.67|1 <1225282328211157168>
+[01:07:57]: ValidateGameSessionToken pgs-sing^KU_vIIO9TCg^DontStarveTogether^b59ldtlHODFSGZBEM5xkWcxHxbyucCR+c4sMEUKifnY= for <1225282328211157168>
+[01:07:58]: Client authenticated: (KU_vIIO9TCg) adai1198
+[01:07:58]: [Steam] SendUserConnectAndAuthenticate for '76561198074627101'
+[01:07:59]: [Steam] Authenticated client '76561198074627101'
+[01:08:02]: [Shard] Read save location file for (KU_vIIO9TCg)
+[01:08:16]: Resuming user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003845
+[01:08:16]: Spawning player at: [Load] (269.40, 0.00, -108.51)	
+[01:14:57]: Hound attack: 958.10140354109	
+[01:14:58]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003877
+[01:14:58]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003877
+[01:14:58]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003877
+[01:14:58]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003877
+[01:14:58]: Serializing world: session/76D34F6E3AE97ED5/0000003877
+[01:22:57]: Hound attack: 478.10137850714	
+[01:22:59]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003878
+[01:22:59]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003878
+[01:22:59]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003878
+[01:22:59]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003878
+[01:22:59]: Serializing world: session/76D34F6E3AE97ED5/0000003878
+[01:25:02]: KU_TtsjKcrU	running text command:	flex	true	
+[01:25:09]: KU_TtsjKcrU	running text command:	laugh	true	
+[01:26:37]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.sg:GoToState("hit") end) @(252.07, -128.39)
+[01:26:57]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.sg:GoToState("yawn") end) @(271.37, -138.38)
+[01:27:12]: KU_TtsjKcrU	running text command:	flex	true	
+[01:30:09]: [200] Account Communication Success (6)
+[01:30:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[01:30:58]: Hound attack: -1.8986465268135	
+[01:30:59]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003879
+[01:30:59]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003879
+[01:30:59]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003879
+[01:31:00]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003879
+[01:31:00]: Serializing world: session/76D34F6E3AE97ED5/0000003879
+[01:36:29]: 綠蘑菇	
+[01:38:59]: Hound attack: 2658.1554766523	
+[01:39:00]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003880
+[01:39:00]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003880
+[01:39:00]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003880
+[01:39:00]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003880
+[01:39:01]: Serializing world: session/76D34F6E3AE97ED5/0000003880
+[01:41:31]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(393.36, -175.75)
+[01:41:31]: Finding a 	stagehand	
+[01:41:31]: Found 116343 (1/1)	
+[01:47:00]: Hound attack: 2178.1887849534	
+[01:47:01]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003881
+[01:47:01]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003881
+[01:47:01]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003881
+[01:47:01]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003881
+[01:47:01]: Serializing world: session/76D34F6E3AE97ED5/0000003881
+[01:49:49]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(384.30, -171.61)
+[01:49:49]: Finding a 	stagehand	
+[01:49:49]: Found 116343 (1/1)	
+[01:54:42]: KU_vIIO9TCg	running text command:	step	true	
+[01:54:44]: KU_vIIO9TCg	running text command:	step	true	
+[01:55:00]: Hound attack: 1698.2220932546	
+[01:55:02]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003882
+[01:55:02]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003882
+[01:55:02]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003882
+[01:55:02]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003882
+[01:55:02]: Serializing world: session/76D34F6E3AE97ED5/0000003882
+[02:00:09]: [200] Account Communication Success (6)
+[02:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[02:03:01]: Hound attack: 1218.2554015557	
+[02:03:02]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003883
+[02:03:03]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003883
+[02:03:03]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003883
+[02:03:03]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003883
+[02:03:03]: Serializing world: session/76D34F6E3AE97ED5/0000003883
+[02:11:02]: Hound attack: 738.28870985681	
+[02:11:03]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003884
+[02:11:03]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003884
+[02:11:03]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003884
+[02:11:03]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003884
+[02:11:04]: Serializing world: session/76D34F6E3AE97ED5/0000003884
+[02:13:41]: [P2P] Session request for '76561198099860495'
+[02:13:45]: [P2P] Create session: 122.38.241.68|1 '76561198099860495'
+[02:13:45]: [P2P] Received from 122.38.241.68|1 '76561198099860495'
+[02:13:45]: [P2P] Sent to 122.38.241.68|1 '76561198099860495'
+[02:13:50]: New incoming connection 122.38.241.68|1 <268030827584598995>
+[02:13:50]: Client connected from 122.38.241.68|1 <268030827584598995>
+[02:13:50]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^H37mC/aSirSidbNk5i2Cfcopi9dK6u9aqAcVrC8Ha9M= for <268030827584598995>
+[02:13:50]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[02:13:50]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[02:13:51]: [Steam] Authenticated client '76561198099860495'
+[02:13:53]: [Shard] Read save location file for (KU_MitzUqYv)
+[02:14:03]: Resuming user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003860
+[02:14:03]: Spawning player at: [Load] (267.48, 0.00, -94.77)	
+[02:15:51]: [P2P] Session request for '76561198159209988'
+[02:15:56]: [P2P] Create session: 122.38.241.69|1 '76561198159209988'
+[02:15:56]: [P2P] Received from 122.38.241.69|1 '76561198159209988'
+[02:15:56]: [P2P] Sent to 122.38.241.69|1 '76561198159209988'
+[02:16:29]: [P2P] Connection failed for '76561198159209988'
+[02:19:03]: Hound attack: 258.32201815793	
+[02:19:04]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003885
+[02:19:04]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003885
+[02:19:04]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003885
+[02:19:04]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003885
+[02:19:04]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003885
+[02:19:05]: Serializing world: session/76D34F6E3AE97ED5/0000003885
+[02:21:07]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(-188.40, -412.39)
+[02:21:07]: Finding a 	stagehand	
+[02:21:07]: Found 116343 (1/1)	
+[02:21:30]: Could not find anim [death] in bank [ghost]
+[02:21:30]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003886
+[02:21:58]: Could not find anim [idle_loop] in bank [ghost]
+[02:22:01]: Could not find anim [transform] in bank [wilson]
+[02:22:02]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003886
+[02:25:56]: [P2P] Session timed out for '76561198159209988'
+[02:25:56]: [P2P] Remove session: 122.38.241.69|1 '76561198159209988'
+[02:27:03]: Hound attack: 1301.8655695196	
+[02:27:05]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003886
+[02:27:05]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003886
+[02:27:05]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003886
+[02:27:05]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003886
+[02:27:05]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003886
+[02:27:05]: Serializing world: session/76D34F6E3AE97ED5/0000003886
+[02:30:09]: [200] Account Communication Success (6)
+[02:30:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[02:35:04]: Hound attack: 821.89887782074	
+[02:35:06]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003887
+[02:35:06]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003887
+[02:35:06]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003887
+[02:35:06]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003887
+[02:35:06]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003887
+[02:35:06]: Serializing world: session/76D34F6E3AE97ED5/0000003887
+[02:35:55]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(-184.52, -346.99)
+[02:35:55]: Finding a 	stagehand	
+[02:35:55]: Found 116343 (1/1)	
+[02:43:05]: Hound attack: 341.89885278679	
+[02:43:06]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003888
+[02:43:06]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003888
+[02:43:06]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003888
+[02:43:06]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003888
+[02:43:06]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003888
+[02:43:07]: Serializing world: session/76D34F6E3AE97ED5/0000003888
+[02:49:06]: Could not find anim [death] in bank [ghost]
+[02:49:06]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003889
+[02:49:51]: KU_TtsjKcrU	running text command:	laugh	true	
+[02:49:52]: KU_TtsjKcrU	running text command:	shrug	true	
+[02:50:47]: Could not find anim [idle_loop] in bank [ghost]
+[02:50:50]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003889
+[02:51:06]: Hound attack: 2468.3879207026	
+[02:51:07]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003889
+[02:51:07]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003889
+[02:51:07]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003889
+[02:51:07]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003889
+[02:51:07]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003889
+[02:51:08]: Serializing world: session/76D34F6E3AE97ED5/0000003889
+[02:51:25]: [Steam] SendUserDisconnect for '76561198189824466'
+[02:51:25]: Connection lost to 122.38.241.66|1 <9007605835107931409>
+[02:51:25]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[02:51:25]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003890
+[02:51:26]: Activating portal[9] to 3462456582	
+[02:51:26]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003890
+[02:51:26]: [Shard] Migration request: (KU_vIIO9TCg) to Caves(3462456582)
+[02:51:26]: [Shard] Begin migration #1 for (KU_vIIO9TCg)
+[02:51:26]: [Shard] #1 [SHDMASTER](1) -> Caves(3462456582)
+[02:51:26]: [Shard] #1 <- session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003890
+[02:51:26]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:51:26]: Ignored request to resume during migration
+[02:51:26]: [Steam] SendUserDisconnect for '76561198074627101'
+[02:51:26]: [Shard] (KU_vIIO9TCg) disconnected from [SHDMASTER](1)
+[02:51:37]: [P2P] Connection failed for '76561198189824466'
+[02:51:38]: [Shard] Completed migration #1 for player (KU_vIIO9TCg)
+[02:51:38]: [Shard] Writing save location file for (KU_vIIO9TCg)
+[02:52:49]: Activating portal[9] to 3462456582	
+[02:52:49]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003890
+[02:52:49]: [Shard] Migration request: (KU_TtsjKcrU) to Caves(3462456582)
+[02:52:49]: [Shard] Begin migration #2 for (KU_TtsjKcrU)
+[02:52:49]: [Shard] #2 [SHDMASTER](1) -> Caves(3462456582)
+[02:52:49]: [Shard] #2 <- session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003890
+[02:52:49]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:52:49]: [Steam] SendUserDisconnect for '76561198251790870'
+[02:52:49]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[02:52:55]: [Shard] Completed migration #2 for player (KU_TtsjKcrU)
+[02:52:55]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[02:53:12]: [P2P] Session request for '76561198177786069'
+[02:53:17]: [P2P] Create session: 122.38.241.70|1 '76561198177786069'
+[02:53:17]: [P2P] Received from 122.38.241.70|1 '76561198177786069'
+[02:53:17]: [P2P] Sent to 122.38.241.70|1 '76561198177786069'
+[02:53:17]: New incoming connection 122.38.241.70|1 <2499867243661212750>
+[02:53:17]: Client connected from 122.38.241.70|1 <2499867243661212750>
+[02:53:17]: ValidateGameSessionToken pgs-sing^KU_f77HMp6T^DontStarveTogether^HdRcZsn2utqeoLUW+R1q3FsWQa9gb4RXrEIzCMY2ink= for <2499867243661212750>
+[02:53:18]: Client authenticated: (KU_f77HMp6T) Driad013
+[02:53:18]: [Steam] SendUserConnectAndAuthenticate for '76561198177786069'
+[02:53:18]: [Steam] Authenticated client '76561198177786069'
+[02:53:21]: [Shard] Read save location file for (KU_f77HMp6T)
+[02:55:16]: [P2P] Received from 122.38.241.66|1 '76561198189824466'
+[02:55:16]: [P2P] Sent to 122.38.241.66|1 '76561198189824466'
+[02:55:17]: New incoming connection 122.38.241.66|1 <277018754959933963>
+[02:55:17]: Client connected from 122.38.241.66|1 <277018754959933963>
+[02:55:17]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^nMqS8waNLCpEYGnJYraVpbNNVHVUgA/NvOioN2VsqJA= for <277018754959933963>
+[02:55:17]: Client authenticated: (KU_3aPAZWmD) ルビー
+[02:55:18]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[02:55:18]: [Steam] Authenticated client '76561198189824466'
+[02:55:21]: [Shard] Read save location file for (KU_3aPAZWmD)
+[02:56:34]: Resuming user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003890
+[02:56:34]: Spawning player at: [Load] (267.39, 0.00, -100.07)	
+[02:57:28]: Resuming user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000002209
+[02:57:28]: Spawning player at: [Load] (126.30, 0.00, -163.09)	
+[02:57:47]: [Shard] Begin migration #3 for (KU_vIIO9TCg)
+[02:57:47]: [Shard] #3 Caves(3462456582) -> [SHDMASTER](1)
+[02:57:47]: [Shard] #3 -> session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003890
+[02:57:47]: [Shard] Received migration #3 data for (KU_vIIO9TCg)
+[02:57:48]: [Shard] (KU_vIIO9TCg) disconnected from Caves(3462456582)
+[02:57:56]: [P2P] Received from 122.38.241.67|1 '76561198074627101'
+[02:57:56]: [P2P] Sent to 122.38.241.67|1 '76561198074627101'
+[02:57:57]: New incoming connection 122.38.241.67|1 <449820714340803901>
+[02:57:57]: Client connected from 122.38.241.67|1 <449820714340803901>
+[02:57:57]: ValidateGameSessionToken pgs-sing^KU_vIIO9TCg^DontStarveTogether^0Mdq6aeT1+o+bBXz9Gni6fgMPZnbYb8VvQ3ueT7of0w= for <449820714340803901>
+[02:57:57]: Client authenticated: (KU_vIIO9TCg) adai1198
+[02:57:58]: [Steam] SendUserConnectAndAuthenticate for '76561198074627101'
+[02:57:58]: [Steam] Authenticated client '76561198074627101'
+[02:57:58]: [Shard] Completed incoming migration #3 for (KU_vIIO9TCg)
+[02:57:58]: [Shard] Completed migration #3 for player (KU_vIIO9TCg)
+[02:57:58]: [Shard] Writing save location file for (KU_vIIO9TCg)
+[02:58:10]: Resuming user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003890
+[02:58:10]: Player will spawn close to portal #9	
+[02:58:10]: Spawning player at: [Load] (-178.72, 0.00, -55.04)	
+[02:59:07]: Hound attack: 1988.3878956687	
+[02:59:08]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003890
+[02:59:08]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003890
+[02:59:08]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003890
+[02:59:08]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003890
+[02:59:08]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003890
+[02:59:08]: Serializing world: session/76D34F6E3AE97ED5/0000003890
+[02:59:10]: [Shard] Begin migration #4 for (KU_TtsjKcrU)
+[02:59:10]: [Shard] #4 Caves(3462456582) -> [SHDMASTER](1)
+[02:59:10]: [Shard] #4 -> session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003891
+[02:59:10]: [Shard] Received migration #4 data for (KU_TtsjKcrU)
+[02:59:10]: [Shard] (KU_TtsjKcrU) disconnected from Caves(3462456582)
+[02:59:14]: New incoming connection 127.0.0.1|63888 <7176785276670729704>
+[02:59:14]: Client connected from [LAN] 127.0.0.1|63888 <7176785276670729704>
+[02:59:14]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^jacRL5ngZ8BVETlhpoKQzGeMPBkCelDMXdkZT1ymF4s= for <7176785276670729704>
+[02:59:15]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[02:59:15]: [Steam] Authenticated host '76561198251790870'
+[02:59:15]: [Shard] Completed incoming migration #4 for (KU_TtsjKcrU)
+[02:59:15]: [Shard] Completed migration #4 for player (KU_TtsjKcrU)
+[02:59:15]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[02:59:28]: Resuming user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003891
+[02:59:28]: Player will spawn close to portal #9	
+[02:59:28]: Spawning player at: [Load] (-178.37, 0.00, -57.30)	
+[03:00:09]: [200] Account Communication Success (6)
+[03:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[03:03:42]: KU_TtsjKcrU	running text command:	flex	true	
+[03:03:46]: KU_TtsjKcrU	running text command:	flex	true	
+[03:03:53]: KU_3aPAZWmD	running text command:	wave	true	
+[03:07:07]: Hound attack: 1508.4545373049	
+[03:07:09]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003891
+[03:07:09]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003891
+[03:07:09]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003891
+[03:07:09]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003891
+[03:07:09]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003891
+[03:07:09]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003891
+[03:07:09]: Serializing world: session/76D34F6E3AE97ED5/0000003891
+[03:09:33]: KU_vIIO9TCg	running text command:	shrug	true	
+[03:09:34]: KU_vIIO9TCg	running text command:	sit	true	
+[03:09:36]: KU_vIIO9TCg	running text command:	sit	true	
+[03:09:37]: KU_vIIO9TCg	running text command:	sit	true	
+[03:10:06]: Could not find anim [death] in bank [ghost]
+[03:10:06]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003892
+[03:10:39]: Could not find anim [idle_loop] in bank [ghost]
+[03:10:42]: Could not find anim [transform] in bank [wilson]
+[03:10:43]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003892
+[03:11:40]: [Steam] SendUserDisconnect for '76561198074627101'
+[03:11:40]: Connection lost to 122.38.241.67|1 <449820714340803901>
+[03:11:40]: [Shard] (KU_vIIO9TCg) disconnected from [SHDMASTER](1)
+[03:11:40]: Serializing user: session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003892
+[03:13:31]: KU_MitzUqYv	running text command:	kiss	true	
+[03:13:34]: KU_MitzUqYv	running text command:	pose	true	
+[03:13:38]: KU_MitzUqYv	running text command:	impatient	true	
+[03:15:08]: Hound attack: 1028.4545122709	
+[03:15:10]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003892
+[03:15:10]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003892
+[03:15:10]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003892
+[03:15:10]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003892
+[03:15:10]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003892
+[03:15:10]: Serializing world: session/76D34F6E3AE97ED5/0000003892
+[03:15:41]: KU_TtsjKcrU	running text command:	laugh	true	
+[03:19:48]: KU_MitzUqYv	running text command:	pose	true	
+[03:19:50]: KU_MitzUqYv	running text command:	bonesaw	true	
+[03:19:51]: KU_MitzUqYv	running text command:	kiss	true	
+[03:19:54]: KU_MitzUqYv	running text command:	kiss	true	
+[03:19:58]: KU_MitzUqYv	running text command:	kiss	true	
+[03:20:00]: KU_MitzUqYv	running text command:	kiss	true	
+[03:21:30]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(22.73, -134.30)
+[03:21:30]: Finding a 	stagehand	
+[03:21:30]: Found 116343 (1/1)	
+[03:21:40]: [P2P] Session timed out for '76561198074627101'
+[03:21:40]: [P2P] Remove session: 122.38.241.67|1 '76561198074627101'
+[03:23:09]: Hound attack: 548.48782057202	
+[03:23:10]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003893
+[03:23:10]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003893
+[03:23:10]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003893
+[03:23:10]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003893
+[03:23:10]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003893
+[03:23:11]: Serializing world: session/76D34F6E3AE97ED5/0000003893
+[03:25:25]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("stagehand") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(120.48, -177.49)
+[03:25:25]: Finding a 	stagehand	
+[03:25:25]: Found 116343 (1/1)	
+[03:29:39]: [P2P] Session request for '76561198031035145'
+[03:29:43]: [P2P] Create session: 122.38.241.71|1 '76561198031035145'
+[03:29:43]: [P2P] Received from 122.38.241.71|1 '76561198031035145'
+[03:29:43]: [P2P] Sent to 122.38.241.71|1 '76561198031035145'
+[03:29:46]: New incoming connection 122.38.241.71|1 <6452048066965132621>
+[03:29:46]: Client connected from 122.38.241.71|1 <6452048066965132621>
+[03:29:46]: ValidateGameSessionToken pgs-sing^KU_UEtQ29K_^DontStarveTogether^MWaK/190dk38pEiUP9yrkozRbVO0NXxeZRLQkCYnEFo= for <6452048066965132621>
+[03:29:47]: Client authenticated: (KU_UEtQ29K_) 雷克
+[03:29:47]: [Steam] SendUserConnectAndAuthenticate for '76561198031035145'
+[03:29:47]: [Steam] Authenticated client '76561198031035145'
+[03:29:50]: [Shard] Read save location file for (KU_UEtQ29K_)
+[03:30:09]: [200] Account Communication Success (6)
+[03:30:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[03:30:20]: KU_MitzUqYv	running text command:	pose	true	
+[03:30:20]: Resuming user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003864
+[03:30:20]: Could not find anim [idle_loop] in bank [ghost]
+[03:30:20]: Spawning player at: [Load] (275.92, 0.00, -113.68)	
+[03:31:10]: Hound attack: 68.521128873143	
+[03:31:11]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003894
+[03:31:11]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003894
+[03:31:11]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003894
+[03:31:11]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003894
+[03:31:11]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003894
+[03:31:11]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003894
+[03:31:12]: Serializing world: session/76D34F6E3AE97ED5/0000003894
+[03:31:15]: Could not find anim [idle_loop] in bank [ghost]
+[03:31:18]: Could not find anim [transform] in bank [wilson]
+[03:31:19]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003895
+[03:32:35]: [Steam] SendUserDisconnect for '76561198189824466'
+[03:32:35]: Connection lost to 122.38.241.66|1 <277018754959933963>
+[03:32:35]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[03:32:35]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003895
+[03:32:47]: [P2P] Connection failed for '76561198189824466'
+[03:34:22]: KU_UEtQ29K_	running text command:	flex	true	
+[03:34:24]: KU_UEtQ29K_	running text command:	fistshake	true	
+[03:34:28]: KU_UEtQ29K_	running text command:	sleepy	true	
+[03:37:40]: [P2P] Received from 122.38.241.66|1 '76561198189824466'
+[03:37:40]: [P2P] Sent to 122.38.241.66|1 '76561198189824466'
+[03:37:41]: New incoming connection 122.38.241.66|1 <7877130967802261026>
+[03:37:41]: Client connected from 122.38.241.66|1 <7877130967802261026>
+[03:37:41]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^2kNmmUtXbt/wCvPsCADi1XRr3Bqr7SIy5sPVRWNWI88= for <7877130967802261026>
+[03:37:41]: Client authenticated: (KU_3aPAZWmD) ルビー
+[03:37:42]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[03:37:42]: [Steam] Authenticated client '76561198189824466'
+[03:37:45]: [Shard] Read save location file for (KU_3aPAZWmD)
+[03:38:43]: Resuming user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003895
+[03:38:43]: Spawning player at: [Load] (353.19, 0.00, -35.24)	
+[03:38:54]: KU_TtsjKcrU	running text command:	flex	true	
+[03:38:57]: KU_UEtQ29K_	running text command:	flex	true	
+[03:39:00]: KU_TtsjKcrU	running text command:	flex	true	
+[03:39:01]: KU_UEtQ29K_	running text command:	flex	true	
+[03:39:09]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.sg:GoToState("hit") end) @(276.12, -97.40)
+[03:39:09]: KU_UEtQ29K_	running text command:	flex	true	
+[03:39:11]: Hound attack: 1294.4646225649	
+[03:39:12]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003895
+[03:39:12]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003895
+[03:39:12]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003895
+[03:39:12]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003895
+[03:39:12]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003895
+[03:39:12]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003895
+[03:39:12]: Serializing world: session/76D34F6E3AE97ED5/0000003895
+[03:39:19]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.sg:GoToState("yawn") end) @(276.62, -96.96)
+[03:39:20]: KU_UEtQ29K_	running text command:	flex	true	
+[03:39:23]: KU_UEtQ29K_	running text command:	flex	true	
+[03:39:28]: KU_TtsjKcrU	running text command:	flex	true	
+[03:39:36]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.sg:GoToState("corpse_rebirth") end) @(280.53, -95.11)
+[03:39:40]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003896
+[03:39:40]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003896
+[03:39:40]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003896
+[03:39:40]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003896
+[03:39:40]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003896
+[03:39:40]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003896
+[03:39:57]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.sg:GoToState("jumpout") end) @(278.53, -98.11)
+[03:40:12]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.AnimState:PlayAnimation("emoteXL_pre_dance0") v:DoTaskInTime(.3, function(v) v.AnimState:PlayAnimation("emoteXL_loop_dance0", true) end) end) @(275.60, -97.92)
+[03:40:13]: KU_UEtQ29K_	running text command:	flex	true	
+[03:40:16]: KU_UEtQ29K_	running text command:	swoon	true	
+[03:40:17]: KU_TtsjKcrU	running text command:	flex	true	
+[03:40:19]: KU_UEtQ29K_	running text command:	chicken	true	
+[03:40:50]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.AnimState:PlayAnimation("hit_darkness") end) @(275.97, -103.56)
+[03:40:51]: KU_MitzUqYv	running text command:	pose	true	
+[03:41:42]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.AnimState:PlayAnimation("gift_pre"); v.AnimState:PushAnimation("giift_loop", true); end) @(279.04, -93.97)
+[03:41:47]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.AnimState:PlayAnimation("gift_pre"); v.AnimState:PushAnimation("giift_loop", true); end) @(278.77, -94.10)
+[03:44:53]: KU_MitzUqYv	running text command:	pose	true	
+[03:44:56]: KU_TtsjKcrU	running text command:	flex	true	
+[03:45:05]: KU_TtsjKcrU	running text command:	flex	true	
+[03:47:12]: Hound attack: 814.46459753097	
+[03:47:13]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003896
+[03:47:13]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003896
+[03:47:13]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003896
+[03:47:13]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003896
+[03:47:13]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003896
+[03:47:13]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003896
+[03:47:14]: Serializing world: session/76D34F6E3AE97ED5/0000003896
+[03:47:53]: KU_TtsjKcrU	running text command:	flex	true	
+[03:47:55]: KU_UEtQ29K_	running text command:	flex	true	
+[03:48:10]: KU_UEtQ29K_	running text command:	flex	true	
+[03:48:59]: KU_TtsjKcrU	running text command:	flex	true	
+[03:49:08]: [Steam] SendUserDisconnect for '76561198177786069'
+[03:49:08]: Connection lost to 122.38.241.70|1 <2499867243661212750>
+[03:49:08]: [Shard] (KU_f77HMp6T) disconnected from [SHDMASTER](1)
+[03:49:08]: Serializing user: session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003897
+[03:49:19]: [P2P] Connection failed for '76561198177786069'
+[03:50:41]: KU_TtsjKcrU	running text command:	flex	true	
+[03:52:31]: Could not find anim [death] in bank [ghost]
+[03:52:31]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003897
+[03:53:15]: [P2P] Session request for '76561198226632280'
+[03:53:20]: [P2P] Create session: 122.38.241.72|1 '76561198226632280'
+[03:53:20]: [P2P] Received from 122.38.241.72|1 '76561198226632280'
+[03:53:20]: [P2P] Sent to 122.38.241.72|1 '76561198226632280'
+[03:53:29]: New incoming connection 122.38.241.72|1 <9190268046746914450>
+[03:53:29]: Client connected from 122.38.241.72|1 <9190268046746914450>
+[03:53:29]: ValidateGameSessionToken pgs-sing^KU_3RvV9UB5^DontStarveTogether^CFJ3pZyvNJYBWv693qpF+1drnSTUeZQ44UyhilhfqPw= for <9190268046746914450>
+[03:53:30]: Client authenticated: (KU_3RvV9UB5) 玉米貓
+[03:53:30]: [Steam] SendUserConnectAndAuthenticate for '76561198226632280'
+[03:53:30]: [Steam] Authenticated client '76561198226632280'
+[03:53:32]: Could not find anim [idle_loop] in bank [ghost]
+[03:53:33]: [Shard] Read save location file for (KU_3RvV9UB5)
+[03:53:35]: Could not find anim [transform] in bank [wilson]
+[03:53:36]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003897
+[03:53:51]: KU_TtsjKcrU	running text command:	flex	true	
+[03:55:05]: KU_TtsjKcrU	running text command:	dance	true	
+[03:55:13]: Hound attack: 334.53123916716	
+[03:55:14]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003897
+[03:55:14]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003897
+[03:55:14]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003897
+[03:55:14]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003897
+[03:55:14]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003897
+[03:55:14]: Serializing world: session/76D34F6E3AE97ED5/0000003897
+[03:55:27]: Resuming user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_
+[03:56:57]: Spawn request: wx78 from 玉米貓
+[03:56:57]: Skin request: (wx78_none) (body_wx78_gladiator) (hand_wx78_gladiator) (legs_wx78_gladiator) (feet_wx78_gladiator)
+[03:56:57]: Spawning player at: [Fixed] (-50.00, 0.00, -194.00)	
+[03:56:57]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003898
+[03:57:45]: KU_TtsjKcrU	running text command:	flex	true	
+[03:58:19]: KU_TtsjKcrU	running text command:	flex	true	
+[03:58:33]: Activating portal[9] to 3462456582	
+[03:58:33]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003898
+[03:58:33]: [Shard] Migration request: (KU_3RvV9UB5) to Caves(3462456582)
+[03:58:33]: [Shard] Begin migration #5 for (KU_3RvV9UB5)
+[03:58:33]: [Shard] #5 [SHDMASTER](1) -> Caves(3462456582)
+[03:58:33]: [Shard] #5 <- session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003898
+[03:58:33]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:58:34]: [Steam] SendUserDisconnect for '76561198226632280'
+[03:58:34]: [Shard] (KU_3RvV9UB5) disconnected from [SHDMASTER](1)
+[03:59:08]: [Shard] Completed migration #5 for player (KU_3RvV9UB5)
+[03:59:08]: [Shard] Writing save location file for (KU_3RvV9UB5)
+[03:59:08]: [P2P] Session timed out for '76561198177786069'
+[03:59:08]: [P2P] Remove session: 122.38.241.70|1 '76561198177786069'
+[03:59:55]: [Shard] Begin migration #6 for (KU_3RvV9UB5)
+[03:59:55]: [Shard] #6 Caves(3462456582) -> [SHDMASTER](1)
+[03:59:55]: [Shard] #6 -> session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003898
+[03:59:55]: [Shard] Received migration #6 data for (KU_3RvV9UB5)
+[03:59:55]: [Shard] (KU_3RvV9UB5) disconnected from Caves(3462456582)
+[04:00:03]: [P2P] Received from 122.38.241.72|1 '76561198226632280'
+[04:00:03]: [P2P] Sent to 122.38.241.72|1 '76561198226632280'
+[04:00:04]: New incoming connection 122.38.241.72|1 <2665631798668525527>
+[04:00:04]: Client connected from 122.38.241.72|1 <2665631798668525527>
+[04:00:04]: ValidateGameSessionToken pgs-sing^KU_3RvV9UB5^DontStarveTogether^f/G5hfZZhlAXHZ2C2/kR/99QoVL6fUTbeMHKJPRmBb8= for <2665631798668525527>
+[04:00:05]: Client authenticated: (KU_3RvV9UB5) 玉米貓
+[04:00:05]: [Steam] SendUserConnectAndAuthenticate for '76561198226632280'
+[04:00:06]: [Steam] Authenticated client '76561198226632280'
+[04:00:06]: [Shard] Completed incoming migration #6 for (KU_3RvV9UB5)
+[04:00:06]: [Shard] Completed migration #6 for player (KU_3RvV9UB5)
+[04:00:06]: [Shard] Writing save location file for (KU_3RvV9UB5)
+[04:00:09]: [200] Account Communication Success (6)
+[04:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[04:00:29]: Resuming user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003898
+[04:00:29]: Player will spawn close to portal #9	
+[04:00:29]: Spawning player at: [Load] (-180.95, 0.00, -55.94)	
+[04:03:13]: Hound attack: 2409.4470457119	
+[04:03:15]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003898
+[04:03:15]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003898
+[04:03:15]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003898
+[04:03:15]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003898
+[04:03:15]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003898
+[04:03:15]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003898
+[04:03:15]: Serializing world: session/76D34F6E3AE97ED5/0000003898
+[04:03:56]: KU_TtsjKcrU	running text command:	flex	true	
+[04:03:59]: KU_MitzUqYv	running text command:	pose	true	
+[04:04:03]: KU_TtsjKcrU	running text command:	impatient	true	
+[04:06:13]: [Steam] SendUserDisconnect for '76561198286499269'
+[04:06:13]: Connection lost to 122.38.241.65|1 <9188323863201916898>
+[04:06:13]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[04:06:13]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003899
+[04:08:47]: KU_UEtQ29K_	running text command:	flex	true	
+[04:08:59]: KU_UEtQ29K_	running text command:	laugh	true	
+[04:09:16]: KU_UEtQ29K_	running text command:	laugh	true	
+[04:09:40]: KU_UEtQ29K_	running text command:	laugh	true	
+[04:10:16]: KU_UEtQ29K_	running text command:	laugh	true	
+[04:10:19]: KU_UEtQ29K_	running text command:	laugh	true	
+[04:11:09]: Could not find anim [death] in bank [ghost]
+[04:11:09]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003899
+[04:11:14]: Hound attack: 1929.4470206779	
+[04:11:16]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003899
+[04:11:16]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003899
+[04:11:16]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003899
+[04:11:16]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003899
+[04:11:16]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003899
+[04:11:16]: Serializing world: session/76D34F6E3AE97ED5/0000003899
+[04:11:49]: Could not find anim [death] in bank [ghost]
+[04:11:49]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003900
+[04:11:59]: Could not find anim [idle_loop] in bank [ghost]
+[04:12:02]: Could not find anim [transform] in bank [wilson]
+[04:12:03]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003900
+[04:12:42]: Could not find anim [idle_loop] in bank [ghost]
+[04:12:45]: Could not find anim [transform] in bank [wilson]
+[04:12:46]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003900
+[04:16:13]: [P2P] Session timed out for '76561198286499269'
+[04:16:13]: [P2P] Remove session: 122.38.241.65|1 '76561198286499269'
+[04:19:15]: Hound attack: 1449.446995644	
+[04:19:16]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003900
+[04:19:17]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003900
+[04:19:17]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003900
+[04:19:17]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003900
+[04:19:17]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003900
+[04:19:17]: Serializing world: session/76D34F6E3AE97ED5/0000003900
+[04:21:07]: KU_TtsjKcrU	running text command:	flex	true	
+[04:23:32]: [Steam] SendUserDisconnect for '76561198099860495'
+[04:23:32]: Connection lost to 122.38.241.68|1 <268030827584598995>
+[04:23:32]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[04:23:32]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003901
+[04:24:19]: [P2P] Connection failed for '76561198099860495'
+[04:24:45]: KU_TtsjKcrU	running text command:	flex	true	
+[04:24:50]: KU_TtsjKcrU	running text command:	dance	true	
+[04:25:35]: KU_TtsjKcrU	running text command:	robot	true	
+[04:25:40]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.AnimState:PlayAnimation("gift_pre"); v.AnimState:PushAnimation("giift_loop", true); end) @(270.72, -123.56)
+[04:25:40]: KU_3aPAZWmD	running text command:	robot	true	
+[04:25:44]: KU_3aPAZWmD	running text command:	robot	true	
+[04:25:48]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.AnimState:PlayAnimation("gift_pre"); v.AnimState:PushAnimation("giift_loop", true); end) @(269.73, -127.10)
+[04:26:00]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(for k,v in pairs(AllPlayers) do v.sg:GoToState("yawn") end) @(268.42, -123.47)
+[04:26:08]: KU_TtsjKcrU	running text command:	laugh	true	
+[04:26:11]: KU_TtsjKcrU	running text command:	dance	true	
+[04:27:09]: [Steam] SendUserDisconnect for '76561198251790870'
+[04:27:09]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[04:27:09]: [IPC] Received shutdown signal.
+[04:27:10]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003901
+[04:27:10]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003901
+[04:27:10]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003901
+[04:27:10]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003901
+[04:27:10]: Serializing world: session/76D34F6E3AE97ED5/0000003901
+[04:27:10]: Truncating to snapshot #3901...
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003862
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003863
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003865
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003866
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003867
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003868
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003869
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003870
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003871
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003872
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003873
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003874
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003875
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003876
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003877
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003878
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003879
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003880
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003881
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003882
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003883
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003884
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003885
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003886
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003887
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003888
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003889
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003890
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003891
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003892
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003893
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003894
+[04:27:10]:  - session/76D34F6E3AE97ED5/0000003895
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003895
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003894
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003893
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003892
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003891
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003890
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003889
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003888
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003887
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003886
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003885
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003884
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003883
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003882
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003881
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003880
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003879
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003878
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003877
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003876
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003875
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003874
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003873
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003872
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003871
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003870
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003869
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003867
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003866
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003865
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003863
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003862
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003895
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003894
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003893
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003892
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003891
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003890
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003889
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003888
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003887
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003886
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003885
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003884
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003883
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003882
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003881
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003880
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003879
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003878
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003877
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003876
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003875
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003874
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003873
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003872
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003871
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003870
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003869
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003867
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003866
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003865
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003863
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003862
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_d2kn6_6v_/0000003866
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_d2kn6_6v_/0000003865
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_d2kn6_6v_/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_d2kn6_6v_/0000003863
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_d2kn6_6v_/0000003862
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003895
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003894
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003893
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003892
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003891
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000003890
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_f77HMp6T_/0000002209
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003895
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003894
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003893
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003892
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003891
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003890
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003889
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003888
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003887
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003886
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003885
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003860
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_PS5-MRac_/0000003866
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_PS5-MRac_/0000003865
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_PS5-MRac_/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_PS5-MRac_/0000003859
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003895
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003894
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003893
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003892
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003891
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003890
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003889
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003888
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003887
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003886
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003885
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003884
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003883
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003882
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003881
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003880
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003879
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003878
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003877
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003876
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003875
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003874
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003873
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003872
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003871
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003870
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003869
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003868
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003867
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003866
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003865
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003863
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003862
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003895
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003894
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003863
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003862
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_uGVY9zVB_/0000003866
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_uGVY9zVB_/0000003865
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_uGVY9zVB_/0000003864
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_uGVY9zVB_/0000003863
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_uGVY9zVB_/0000003862
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003891
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003890
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003889
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003888
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003887
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003886
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003885
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003884
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003883
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003882
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003881
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003880
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003879
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003878
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003877
+[04:27:10]:  - session/76D34F6E3AE97ED5/KU_vIIO9TCg_/0000003845
+[04:27:10]:    188 file(s) removed
+[04:27:10]:  > session/76D34F6E3AE97ED5/KU_TtsjKcrU_/savelocation
+[04:27:10]:    1 file(s) updated
+[04:27:11]: unloading prefabs for mod MOD_workshop-375859599	
+[04:27:11]: unloading prefabs for mod MOD_workshop-1111711682	
+[04:27:11]: unloading prefabs for mod MOD_workshop-501385076	
+[04:27:11]: unloading prefabs for mod MOD_workshop-447092740	
+[04:27:11]: unloading prefabs for mod MOD_workshop-677991540	
+[04:27:11]: unloading prefabs for mod MOD_workshop-770901818	
+[04:27:11]: unloading prefabs for mod MOD_workshop-588560555	
+[04:27:11]: unloading prefabs for mod MOD_workshop-818739975	
+[04:27:11]: unloading prefabs for mod MOD_workshop-626893945	
+[04:27:11]: unloading prefabs for mod MOD_workshop-378160973	
+[04:27:11]: [Shard] Stopping shard mode
+[04:27:11]: Collecting garbage...
+[04:27:12]: lua_gc took 0.34 seconds
+[04:27:12]: ~ShardLuaProxy()
+[04:27:12]: ~ItemServerLuaProxy()
+[04:27:12]: ~InventoryLuaProxy()
+[04:27:12]: ~NetworkLuaProxy()
+[04:27:12]: ~SimLuaProxy()
+[04:27:12]: lua_close took 0.76 seconds
+[04:27:12]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[04:27:12]: shaders/ui_yuv.ksh - 1
+[04:27:13]: CurlRequestManager::ClientThread::Main() complete
+[04:27:13]: HttpClient2 discarded 0 callbacks.
+[04:27:13]: Shutting down

@@ -1,0 +1,1507 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 34%
+	Available Physical Memory: 10683m/16284m
+	Available Page File: 26737m/32566m
+	Available Virtual Memory: 4012m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 8m
+	Working Set Size: 8m
+	Quota Peak Page Pool Usage: 151k
+	Quota Page Pool Usage: 151k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 13k
+	Page File Usage: 3m
+	Peak Page File Usage: 4m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 244816
+[00:00:00]: Current time: Sun Dec 10 14:24:37 2017
+
+[00:00:00]: Don't Starve Together: 244816 WIN32
+[00:00:00]: Build Date: 2660
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (21152)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.72
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (11924)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Success)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 7 旗艦版 
+    version                   6.1.7601
+    architecture              64-bit
+    platformSpecific          SP 1.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD FX(tm)-8320 Eight-Core Processor           
+    manufacturer              AuthenticAMD
+    clockSpeed                3500
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      NVIDIA GeForce GTX 750 Ti
+    driverDate                20150722000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             10.18.13.5362
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:00]: DownloadMods(0)
+[00:00:00]: modoverrides.lua enabling workshop-818739975	
+[00:00:00]: modoverrides.lua enabling workshop-626893945	
+[00:00:00]: modoverrides.lua enabling workshop-588560555	
+[00:00:00]: modoverrides.lua enabling workshop-378160973	
+[00:00:00]: modoverrides.lua enabling workshop-770901818	
+[00:00:00]: modoverrides.lua enabling workshop-501385076	
+[00:00:00]: modoverrides.lua enabling workshop-677991540	
+[00:00:00]: modoverrides.lua enabling workshop-1111711682	
+[00:00:00]: modoverrides.lua enabling workshop-447092740	
+[00:00:00]: modoverrides.lua enabling workshop-375859599	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[00:00:00]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:00]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:00]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-447092740_CLIENT	
+[00:00:00]: Loading mod: workshop-447092740 (More Actions) Version:1.2.9	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:00]: Loading mod: workshop-501385076 (Quick Pick) Version:1.0.1	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-588560555_CLIENT	
+[00:00:00]: Loading mod: workshop-588560555 (Auto Hound Reset) Version:1.1	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-626893945_CLIENT	
+[00:00:00]: Loading mod: workshop-626893945 (  自定义修改) Version:0.2.0	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-677991540_CLIENT	
+[00:00:00]: Loading mod: workshop-677991540 (Maxwell Stuff) Version:1.0.a	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-770901818_CLIENT	
+[00:00:00]: Loading mod: workshop-770901818 (Hound Attack) Version:0.2.0	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-818739975_CLIENT	
+[00:00:00]: Loading mod: workshop-818739975 (Adshovel) Version:1.6	
+[00:00:00]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:00]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:00]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[00:00:02]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[00:00:02]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[00:00:02]: [adai] 強制伺服器開啟中文化 mod	
+[00:00:02]: [adai] 中文化修復完成。	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-447092740 (More Actions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-447092740 (More Actions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-447092740 (More Actions)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-677991540 (Maxwell Stuff)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-770901818 (Hound Attack)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-770901818 (Hound Attack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-770901818 (Hound Attack)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-588560555 (Auto Hound Reset)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-818739975 (Adshovel)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-818739975 (Adshovel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-818739975 (Adshovel)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-626893945 (  自定义修改)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-626893945 (  自定义修改)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-626893945 (  自定义修改)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering mod namespace "workshop-378160973"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:07]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:07]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:07]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-447092740 (More Actions)	Registering prefabs	
+[00:00:07]: Mod: workshop-447092740 (More Actions)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	Registering prefabs	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p_placer	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_flame2	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_flame2	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwellthrone_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p_placer	
+[00:00:07]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-770901818 (Hound Attack)	Registering prefabs	
+[00:00:07]: Mod: workshop-770901818 (Hound Attack)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-588560555 (Auto Hound Reset)	Registering prefabs	
+[00:00:07]: Mod: workshop-588560555 (Auto Hound Reset)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	Registering prefabs	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cave_banana_tree	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_lichen	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_lichen	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_lichen_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_cactus_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_flower_cave	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_reeds	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_reeds	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_reeds_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_shrooms	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_oasis_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_wormlight_plant	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant_placer	
+[00:00:07]: Mod: workshop-818739975 (Adshovel)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-626893945 (  自定义修改)	Registering prefabs	
+[00:00:07]: Mod: workshop-626893945 (  自定义修改)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:07]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:09]: [200] Account Communication Success (6)
+[00:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[00:00:09]: Starting Dedicated Server Game	
+[00:00:09]: Network tick rate: U=15(2), D=0
+[00:00:09]: About to start a server with the following settings:
+[00:00:09]:   Dedicated: true
+[00:00:09]:   Online: true
+[00:00:09]:   Passworded: true
+[00:00:09]:   ServerPort: 10999
+[00:00:09]:   SteamAuthPort: 8766
+[00:00:09]:   SteamMasterServerPort: 27016
+[00:00:09]:   ClanID: false
+[00:00:09]:   ClanOnly: false
+[00:00:09]:   ClanAdmin: false
+[00:00:09]:   LanOnly: false
+[00:00:09]:   FriendsOnly: false
+[00:00:09]:   EnableAutosaver: true
+[00:00:09]:   EncodeUserPath: false
+[00:00:09]:   PVP: false
+[00:00:09]:   MaxPlayers: 12
+[00:00:09]:   GameMode: endless
+[00:00:09]:   OverridenDNS: 
+[00:00:09]:   PauseWhenEmpty: true
+[00:00:09]:   IdleTimeout: 1800s
+[00:00:09]:   VoteEnabled: true
+[00:00:09]:   InternetBroadcasting: true
+[00:00:09]:   Intent: cooperative
+[00:00:09]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-447092740	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-677991540	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-818739975	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-588560555	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:09]: Online Server Started on port: 10999
+[00:00:09]: unloading prefabs for mod MOD_workshop-375859599	
+[00:00:09]: unloading prefabs for mod MOD_workshop-1111711682	
+[00:00:09]: unloading prefabs for mod MOD_workshop-501385076	
+[00:00:09]: unloading prefabs for mod MOD_workshop-447092740	
+[00:00:09]: unloading prefabs for mod MOD_workshop-677991540	
+[00:00:09]: unloading prefabs for mod MOD_workshop-770901818	
+[00:00:09]: unloading prefabs for mod MOD_workshop-588560555	
+[00:00:09]: unloading prefabs for mod MOD_workshop-818739975	
+[00:00:09]: unloading prefabs for mod MOD_workshop-626893945	
+[00:00:09]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.03 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: lua_close took 0.04 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:09]:   taskgrouplist:	default	Together	
+[00:00:09]:   taskgrouplist:	classic	Classic	
+[00:00:09]:   taskgrouplist:	cave_default	Underground	
+[00:00:09]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:09]: running main.lua
+	
+[00:00:09]: loaded modindex	
+[00:00:09]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:09]: modoverrides.lua enabling workshop-818739975	
+[00:00:09]: modoverrides.lua enabling workshop-626893945	
+[00:00:09]: modoverrides.lua enabling workshop-588560555	
+[00:00:09]: modoverrides.lua enabling workshop-378160973	
+[00:00:09]: modoverrides.lua enabling workshop-770901818	
+[00:00:09]: modoverrides.lua enabling workshop-501385076	
+[00:00:09]: modoverrides.lua enabling workshop-677991540	
+[00:00:09]: modoverrides.lua enabling workshop-1111711682	
+[00:00:09]: modoverrides.lua enabling workshop-447092740	
+[00:00:09]: modoverrides.lua enabling workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1111711682	
+[00:00:09]: Loading mod: workshop-1111711682 (Traditional Chinese Language Pack) Version:17.12.8	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:09]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:09]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-447092740	
+[00:00:09]: Loading mod: workshop-447092740 (More Actions) Version:1.2.9	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-501385076	
+[00:00:09]: Loading mod: workshop-501385076 (Quick Pick) Version:1.0.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-588560555	
+[00:00:09]: Loading mod: workshop-588560555 (Auto Hound Reset) Version:1.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-626893945	
+[00:00:09]: Loading mod: workshop-626893945 (  自定义修改) Version:0.2.0	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-677991540	
+[00:00:09]: Loading mod: workshop-677991540 (Maxwell Stuff) Version:1.0.a	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-770901818	
+[00:00:09]: Loading mod: workshop-770901818 (Hound Attack) Version:0.2.0	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-818739975	
+[00:00:09]: Loading mod: workshop-818739975 (Adshovel) Version:1.6	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:09]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:09]: Translator:LoadPOFile - loading file: ../mods/workshop-1111711682/DST_cht.po	
+[00:00:11]: [adai] 中文化完成。(Traditional Chinese 正體中文翻譯)	
+[00:00:11]: modimport: ../mods/workshop-1111711682/cht_fix.lua	
+[00:00:11]: [adai] 中文化修復完成。	
+[00:00:11]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-447092740 (More Actions)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-447092740 (More Actions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-447092740 (More Actions)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-677991540 (Maxwell Stuff)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-677991540 (Maxwell Stuff)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-770901818 (Hound Attack)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-770901818 (Hound Attack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-770901818 (Hound Attack)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-588560555 (Auto Hound Reset)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-588560555 (Auto Hound Reset)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-818739975 (Adshovel)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-818739975 (Adshovel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-818739975 (Adshovel)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-626893945 (  自定义修改)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-626893945 (  自定义修改)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-626893945 (  自定义修改)	Loading modmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:11]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1111711682	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-447092740	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-588560555	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-626893945	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-677991540	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-770901818	
+[00:00:11]: ModIndex:GetModsToLoad inserting moddir, 	workshop-818739975	
+[00:00:11]: LOADING LUA SUCCESS
+[00:00:11]: Registering mod namespace "workshop-378160973"
+[00:00:12]: PlayerDeaths could not load morgue	
+[00:00:12]: PlayerHistory could not load player_history	
+[00:00:12]: bloom_enabled	false	
+[00:00:12]: loaded saveindex	
+[00:00:12]: OnFilesLoaded()	
+[00:00:12]: OnUpdatePurchaseStateComplete	
+[00:00:12]: 	Unload FE	
+[00:00:12]: 	Unload FE done	
+[00:00:13]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:13]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:13]: Mod: workshop-1111711682 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:13]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-447092740 (More Actions)	Registering prefabs	
+[00:00:13]: Mod: workshop-447092740 (More Actions)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	Registering prefabs	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_p_placer	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwelllight_flame2	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwelllight_flame2	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering prefab file: prefabs/maxwellthrone_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	    maxwellthrone_p_placer	
+[00:00:13]: Mod: workshop-677991540 (Maxwell Stuff)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-770901818 (Hound Attack)	Registering prefabs	
+[00:00:13]: Mod: workshop-770901818 (Hound Attack)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-588560555 (Auto Hound Reset)	Registering prefabs	
+[00:00:13]: Mod: workshop-588560555 (Auto Hound Reset)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	Registering prefabs	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cave_banana_tree	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cave_banana_tree_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_lichen	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_lichen	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_lichen_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_cactus_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_flower_cave	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_double_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_flower_cave_triple_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_reeds	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_reeds	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_reeds_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_shrooms	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_red_mushroom_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_green_mushroom_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_blue_mushroom_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_oasis_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_oasis_cactus_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering prefab file: prefabs/dug_wormlight_plant	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	    dug_wormlight_plant_placer	
+[00:00:13]: Mod: workshop-818739975 (Adshovel)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-626893945 (  自定义修改)	Registering prefabs	
+[00:00:13]: Mod: workshop-626893945 (  自定义修改)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:13]: 	LOAD BE	
+[00:00:16]: 	LOAD BE: done	
+[00:00:16]: Loading world: session/76D34F6E3AE97ED5/0000003982	
+[00:00:16]: Save file is at version 4.77	
+[00:00:16]: Begin Session: 76D34F6E3AE97ED5
+[00:00:16]: saving to server_temp/server_save	
+[00:00:16]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:16]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:17]: Loading Nav Grid	
+[00:00:17]: setting 	summerlength	10	
+[00:00:17]: setting 	isnightmaredawn	false	
+[00:00:17]: setting 	elapseddaysinseason	2	
+[00:00:17]: setting 	isfullmoon	false	
+[00:00:17]: setting 	moisture	2281.6176757813	
+[00:00:17]: setting 	springlength	20	
+[00:00:17]: setting 	isnightmarewild	false	
+[00:00:17]: setting 	moonphase	quarter	
+[00:00:17]: setting 	precipitationrate	0.13509425476769	
+[00:00:17]: setting 	iswet	false	
+[00:00:17]: setting 	isnewmoon	false	
+[00:00:17]: setting 	iswinter	true	
+[00:00:17]: setting 	israining	false	
+[00:00:17]: setting 	isnightmarewarn	false	
+[00:00:17]: setting 	precipitation	snow	
+[00:00:17]: setting 	cavephase	day	
+[00:00:17]: setting 	moistureceil	2296.7399902344	
+[00:00:17]: setting 	isday	true	
+[00:00:17]: setting 	iscaveday	true	
+[00:00:17]: setting 	season	winter	
+[00:00:17]: setting 	timeinphase	0.097902086046007	
+[00:00:17]: setting 	temperature	-14.830512580958	
+[00:00:17]: setting 	isnightmarecalm	false	
+[00:00:17]: setting 	isnight	false	
+[00:00:17]: setting 	isdusk	false	
+[00:00:17]: setting 	iscavedusk	false	
+[00:00:17]: setting 	isautumn	false	
+[00:00:17]: setting 	issnowing	true	
+[00:00:17]: setting 	iswaxingmoon	true	
+[00:00:17]: setting 	pop	1	
+[00:00:17]: setting 	snowlevel	0.5171844959259	
+[00:00:17]: setting 	issnowcovered	true	
+[00:00:17]: setting 	autumnlength	30	
+[00:00:17]: setting 	phase	day	
+[00:00:17]: setting 	nightmaretime	0	
+[00:00:17]: setting 	winterlength	10	
+[00:00:17]: setting 	isspring	false	
+[00:00:17]: setting 	nightmarephase	none	
+[00:00:17]: setting 	remainingdaysinseason	8	
+[00:00:17]: setting 	cycles	3322	
+[00:00:17]: setting 	iscavenight	false	
+[00:00:17]: setting 	nightmaretimeinphase	0	
+[00:00:17]: setting 	wetness	0	
+[00:00:17]: setting 	time	0.036713282267253	
+[00:00:17]: setting 	issummer	false	
+[00:00:17]: OVERRIDE: setting	liefs	to	often	
+[00:00:17]: OVERRIDE: setting	deciduousmonster	to	never	
+[00:00:17]: OVERRIDE: setting	perd	to	rare	
+[00:00:17]: OVERRIDE: setting	krampus	to	rare	
+[00:00:28]: Reconstructing topology	
+[00:00:28]: 	...Sorting points	
+[00:00:28]: 	...Sorting edges	
+[00:00:28]: 	...Connecting nodes	
+[00:00:28]: 	...Validating connections	
+[00:00:28]: 	...Housekeeping	
+[00:00:28]: 	...Done!	
+[00:00:28]: Hound attack: 1557.960491035	
+[00:00:28]: 1 uploads added to server. From server_temp
+[00:00:28]: About to start a shard with these settings:
+[00:00:28]:   ShardName: [SHDMASTER]
+[00:00:28]:   ShardID: 1
+[00:00:28]:   ShardRole: MASTER
+[00:00:28]:   MasterHost: (null)
+[00:00:28]:   MasterBind: 127.0.0.1
+[00:00:28]:   MasterPort: 10888
+[00:00:28]: [Shard] Starting master server
+[00:00:28]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:28]: [Shard] Shard server started on port: 10888
+[00:00:28]: Telling Client our new session identifier: 76D34F6E3AE97ED5
+[00:00:28]: ModIndex: Load sequence finished successfully.	
+[00:00:29]: Reset() returning
+[00:00:29]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:29]: [Steam] SteamGameServer_Init success
+[00:00:30]: Validating portal[4] <-> 3462456582[4] (inactive)	
+[00:00:30]: Validating portal[10] <-> 3462456582[10] (inactive)	
+[00:00:30]: Validating portal[1] <-> 3462456582[1] (inactive)	
+[00:00:30]: Validating portal[9] <-> 3462456582[9] (inactive)	
+[00:00:30]: Validating portal[8] <-> 3462456582[8] (inactive)	
+[00:00:30]: Validating portal[5] <-> 3462456582[5] (inactive)	
+[00:00:30]: Validating portal[3] <-> 3462456582[3] (inactive)	
+[00:00:30]: Validating portal[6] <-> 3462456582[6] (inactive)	
+[00:00:30]: Validating portal[7] <-> 3462456582[7] (inactive)	
+[00:00:30]: Validating portal[2] <-> 3462456582[2] (inactive)	
+[00:00:30]: Hound attack: 1557.960491035	
+[00:00:30]: Sim paused
+[00:00:32]: [Shard] Slave Caves(3462456582) connected: [LAN] 127.0.0.1
+[00:00:33]: [Shard] Slave Caves(3462456582) ready!
+[00:00:33]: World 3462456582 is now connected	
+[00:00:33]: Validating portal[4] <-> 3462456582[4] (active)	
+[00:00:33]: Validating portal[10] <-> 3462456582[10] (active)	
+[00:00:33]: Validating portal[1] <-> 3462456582[1] (active)	
+[00:00:33]: Validating portal[9] <-> 3462456582[9] (active)	
+[00:00:33]: Validating portal[8] <-> 3462456582[8] (active)	
+[00:00:33]: Validating portal[5] <-> 3462456582[5] (active)	
+[00:00:33]: Validating portal[3] <-> 3462456582[3] (active)	
+[00:00:33]: Validating portal[6] <-> 3462456582[6] (active)	
+[00:00:33]: Validating portal[7] <-> 3462456582[7] (active)	
+[00:00:33]: Validating portal[2] <-> 3462456582[2] (active)	
+[00:02:13]: [P2P] Session request for '76561198251790870'
+[00:02:17]: [P2P] Create session: 106.141.97.39|1 '76561198251790870'
+[00:02:17]: [P2P] Received from 106.141.97.39|1 '76561198251790870'
+[00:02:17]: [P2P] Sent to 106.141.97.39|1 '76561198251790870'
+[00:02:17]: New incoming connection 106.141.97.39|1 <1332529084201780659>
+[00:02:17]: Client connected from 106.141.97.39|1 <1332529084201780659>
+[00:02:17]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^MrbDBCTXPP/Hu4ck5KDsX/VRXziSAAe2FUU89uOZsSs= for <1332529084201780659>
+[00:02:18]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[00:02:18]: [Steam] Authenticated host '76561198251790870'
+[00:02:21]: [Shard] Read save location file for (KU_TtsjKcrU)
+[00:02:32]: Resuming user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003979
+[00:02:33]: Spawning player at: [Load] (271.41, 0.00, -108.65)	
+[00:02:33]: Sim unpaused
+[00:02:42]: [P2P] Session request for '76561198286499269'
+[00:02:46]: [P2P] Create session: 106.141.97.40|1 '76561198286499269'
+[00:02:46]: [P2P] Received from 106.141.97.40|1 '76561198286499269'
+[00:02:46]: [P2P] Sent to 106.141.97.40|1 '76561198286499269'
+[00:02:46]: New incoming connection 106.141.97.40|1 <4360167789511075258>
+[00:02:46]: Client connected from 106.141.97.40|1 <4360167789511075258>
+[00:02:46]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^niMM4TXNpvQWp5837xgXtF21obCoQ5eohbby/tru6Ls= for <4360167789511075258>
+[00:02:46]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[00:02:47]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[00:02:47]: [Steam] Authenticated client '76561198286499269'
+[00:02:50]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[00:03:04]: Resuming user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003959
+[00:03:04]: Spawning player at: [Load] (277.04, 0.00, -102.67)	
+[00:03:15]: [P2P] Session request for '76561198189824466'
+[00:03:20]: [P2P] Create session: 106.141.97.41|1 '76561198189824466'
+[00:03:20]: [P2P] Received from 106.141.97.41|1 '76561198189824466'
+[00:03:20]: [P2P] Sent to 106.141.97.41|1 '76561198189824466'
+[00:03:20]: New incoming connection 106.141.97.41|1 <6808727963755388279>
+[00:03:20]: Client connected from 106.141.97.41|1 <6808727963755388279>
+[00:03:20]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^N65Lj+vNswJE2U3NT4O2IlQvXv5MYTfdLuHkYjajyf4= for <6808727963755388279>
+[00:03:21]: Client authenticated: (KU_3aPAZWmD) ルビー
+[00:03:21]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[00:03:21]: [Steam] Authenticated client '76561198189824466'
+[00:03:24]: [Shard] Read save location file for (KU_3aPAZWmD)
+[00:04:50]: Resuming user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003979
+[00:04:50]: Spawning player at: [Load] (274.19, 0.00, -105.30)	
+[00:04:59]: [P2P] Session request for '76561198099860495'
+[00:05:03]: [P2P] Create session: 106.141.97.42|1 '76561198099860495'
+[00:05:03]: [P2P] Received from 106.141.97.42|1 '76561198099860495'
+[00:05:03]: [P2P] Sent to 106.141.97.42|1 '76561198099860495'
+[00:05:11]: New incoming connection 106.141.97.42|1 <8301567662064748278>
+[00:05:11]: Client connected from 106.141.97.42|1 <8301567662064748278>
+[00:05:11]: ValidateGameSessionToken pgs-sing^KU_MitzUqYv^DontStarveTogether^pW5XleeqIoqdgysmW6aIq+2i1si2QPr5+jc+1Z5VIpw= for <8301567662064748278>
+[00:05:12]: Client authenticated: (KU_MitzUqYv) 讓子彈飛一會兒
+[00:05:12]: [Steam] SendUserConnectAndAuthenticate for '76561198099860495'
+[00:05:13]: [Steam] Authenticated client '76561198099860495'
+[00:05:15]: [Shard] Read save location file for (KU_MitzUqYv)
+[00:05:24]: Resuming user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003979
+[00:05:24]: Spawning player at: [Load] (269.68, 0.00, -110.18)	
+[00:05:54]: KU_TtsjKcrU	running text command:	dance	true	
+[00:06:10]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:06:14]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:06:17]: KU_TtsjKcrU	running text command:	flex	true	
+[00:06:18]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:06:25]: KU_BIj2U1ZB	running text command:	slowclap	true	
+[00:06:28]: KU_TtsjKcrU	running text command:	flex	true	
+[00:06:29]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:06:32]: KU_TtsjKcrU	running text command:	flex	true	
+[00:06:35]: KU_TtsjKcrU	running text command:	flex	true	
+[00:06:35]: [Steam] SendUserDisconnect for '76561198189824466'
+[00:06:35]: Connection lost to 106.141.97.41|1 <6808727963755388279>
+[00:06:35]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[00:06:36]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003983
+[00:06:44]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:06:46]: KU_BIj2U1ZB	running text command:	sit	true	
+[00:07:30]: [P2P] Connection failed for '76561198189824466'
+[00:10:11]: [P2P] Received from 106.141.97.41|1 '76561198189824466'
+[00:10:11]: [P2P] Sent to 106.141.97.41|1 '76561198189824466'
+[00:10:12]: New incoming connection 106.141.97.41|1 <2978322266836199668>
+[00:10:12]: Client connected from 106.141.97.41|1 <2978322266836199668>
+[00:10:12]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^P1ZN1io3vTuD9sSNCqww4qrSQoSlQZugv+GvwNMjEPs= for <2978322266836199668>
+[00:10:12]: Client authenticated: (KU_3aPAZWmD) ルビー
+[00:10:13]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[00:10:13]: [Steam] Authenticated client '76561198189824466'
+[00:10:15]: Hound attack: 1095.6938002592	
+[00:10:16]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003983
+[00:10:16]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003983
+[00:10:16]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003983
+[00:10:17]: Serializing world: session/76D34F6E3AE97ED5/0000003983
+[00:10:17]: [Shard] Read save location file for (KU_3aPAZWmD)
+[00:11:07]: Resuming user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003983
+[00:11:07]: Spawning player at: [Load] (277.77, 0.00, -102.69)	
+[00:13:12]: KU_MitzUqYv	running text command:	pose	true	
+[00:13:16]: KU_MitzUqYv	running text command:	pose	true	
+[00:13:20]: KU_BIj2U1ZB	running text command:	shrug	true	
+[00:13:49]: [Steam] SendUserDisconnect for '76561198286499269'
+[00:13:49]: Connection lost to 106.141.97.40|1 <4360167789511075258>
+[00:13:49]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[00:13:49]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003984
+[00:17:25]: KU_MitzUqYv	running text command:	impatient	true	
+[00:17:27]: KU_MitzUqYv	running text command:	pose	true	
+[00:18:16]: Hound attack: 615.6937752253	
+[00:18:17]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003984
+[00:18:17]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003984
+[00:18:17]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003984
+[00:18:17]: Serializing world: session/76D34F6E3AE97ED5/0000003984
+[00:18:57]: KU_TtsjKcrU	running text command:	dance	true	
+[00:20:11]: KU_TtsjKcrU	running text command:	laugh	true	
+[00:20:16]: KU_3aPAZWmD	running text command:	laugh	true	
+[00:21:50]: KU_TtsjKcrU	running text command:	flex	true	
+[00:23:21]: KU_TtsjKcrU	running text command:	flex	true	
+[00:23:49]: [P2P] Session timed out for '76561198286499269'
+[00:23:49]: [P2P] Remove session: 106.141.97.40|1 '76561198286499269'
+[00:26:16]: Hound attack: 135.69375019135	
+[00:26:18]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003985
+[00:26:18]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003985
+[00:26:18]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003985
+[00:26:18]: Serializing world: session/76D34F6E3AE97ED5/0000003985
+[00:27:12]: KU_TtsjKcrU	running text command:	flex	true	
+[00:28:14]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil then local function tmi_goto(prefab) if player.Physics ~= nil then player.Physics:Teleport(prefab.Transform:GetWorldPosition()) else player.Transform:SetPosition(prefab.Transform:GetWorldPosition()) end end local target = c_findnext("pigking") if target == nil then target = c_findnext("") end tmi_goto(target) end) @(-730.54, 81.28)
+[00:28:14]: Finding a 	pigking	
+[00:28:14]: Found 109177 (1/1)	
+[00:29:11]: [P2P] Create session: 106.141.97.43|1 '76561198286499269'
+[00:29:11]: [P2P] Received from 106.141.97.43|1 '76561198286499269'
+[00:29:11]: [P2P] Sent to 106.141.97.43|1 '76561198286499269'
+[00:29:11]: New incoming connection 106.141.97.43|1 <9020450271653385222>
+[00:29:11]: Client connected from 106.141.97.43|1 <9020450271653385222>
+[00:29:11]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^JqBj5I+CSEfTdnB4gK1mRN3OZ8GQJMcQlBW312RUWEA= for <9020450271653385222>
+[00:29:12]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[00:29:12]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[00:29:12]: [Steam] Authenticated client '76561198286499269'
+[00:29:15]: [Shard] Read save location file for (KU_BIj2U1ZB)
+[00:29:27]: Resuming user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003984
+[00:29:27]: Spawning player at: [Load] (273.74, 0.00, -107.52)	
+[00:30:08]: [200] Account Communication Success (6)
+[00:30:08]: Received (KU_TtsjKcrU) from TokenPurpose
+[00:34:17]: KU_TtsjKcrU	running text command:	flex	true	
+[00:34:17]: Hound attack: 2800.9377920454	
+[00:34:19]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003986
+[00:34:19]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003986
+[00:34:19]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003986
+[00:34:19]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003986
+[00:34:19]: Serializing world: session/76D34F6E3AE97ED5/0000003986
+[00:34:35]: [P2P] Session request for '76561198142785756'
+[00:34:39]: [P2P] Create session: 106.141.97.44|1 '76561198142785756'
+[00:34:39]: [P2P] Received from 106.141.97.44|1 '76561198142785756'
+[00:34:39]: [P2P] Sent to 106.141.97.44|1 '76561198142785756'
+[00:35:55]: [P2P] Received from 106.141.97.44|1 '76561198142785756'
+[00:35:55]: [P2P] Sent to 106.141.97.44|1 '76561198142785756'
+[00:35:55]: New incoming connection 106.141.97.44|1 <3559865497782704055>
+[00:35:55]: Client connected from 106.141.97.44|1 <3559865497782704055>
+[00:35:55]: ValidateGameSessionToken pgs-sing^KU_Vo3zuukV^DontStarveTogether^bNj9igXacAM7kQu+NuertlbvpxBhb9Kp6ME36kMTJfc= for <3559865497782704055>
+[00:35:56]: Client authenticated: (KU_Vo3zuukV) dbe067~維
+[00:35:56]: [Steam] SendUserConnectAndAuthenticate for '76561198142785756'
+[00:35:57]: [Steam] Authenticated client '76561198142785756'
+[00:35:59]: [Shard] Read save location file for (KU_Vo3zuukV)
+[00:36:30]: Resuming user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003861
+[00:36:30]: Spawning player at: [Load] (262.59, 0.00, -83.36)	
+[00:42:18]: Hound attack: 2320.9377670114	
+[00:42:19]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003987
+[00:42:19]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003987
+[00:42:19]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003987
+[00:42:19]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003987
+[00:42:19]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003987
+[00:42:20]: Serializing world: session/76D34F6E3AE97ED5/0000003987
+[00:50:19]: Hound attack: 1840.9710753125	
+[00:50:20]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003988
+[00:50:20]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003988
+[00:50:20]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003988
+[00:50:20]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003988
+[00:50:20]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003988
+[00:50:21]: Serializing world: session/76D34F6E3AE97ED5/0000003988
+[00:58:20]: Hound attack: 1360.9710502786	
+[00:58:21]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003989
+[00:58:21]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003989
+[00:58:21]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003989
+[00:58:21]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003989
+[00:58:21]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003989
+[00:58:21]: Serializing world: session/76D34F6E3AE97ED5/0000003989
+[01:00:09]: [200] Account Communication Success (6)
+[01:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[01:04:05]: KU_TtsjKcrU	running text command:	flex	true	
+[01:04:21]: KU_3aPAZWmD	running text command:	joy	true	
+[01:06:20]: Hound attack: 881.00435857972	
+[01:06:22]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003990
+[01:06:22]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003990
+[01:06:22]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003990
+[01:06:22]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003990
+[01:06:22]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003990
+[01:06:22]: Serializing world: session/76D34F6E3AE97ED5/0000003990
+[01:07:24]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil and player.Transform then local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab('bearger') if inst ~= nil and inst.components then if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end else inst.Transform:SetPosition(x,y,z) end end end end) @(-184.54, 223.07)
+[01:08:20]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil and player.Transform then local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab('bearger') if inst ~= nil and inst.components then if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end else inst.Transform:SetPosition(x,y,z) end end end end) @(-205.42, 237.07)
+[01:09:20]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(-182.05, 258.21)
+[01:09:26]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(-183.55, 257.62)
+[01:09:35]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(-179.72, 262.80)
+[01:09:42]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(-177.29, 260.29)
+[01:11:56]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-183.95, 253.30)
+[01:12:02]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local p = UserToPlayer('KU_TtsjKcrU') local me = UserToPlayer("KU_TtsjKcrU") local builder = p.components.builder if builder and me and me.components.talker then me.components.talker:Say(builder.freebuildmode and STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL or STRINGS.UI.MODSSCREEN.STATUS.WORKING_NORMALLY) builder:GiveAllRecipes() end) @(-169.17, 256.26)
+[01:12:07]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local p = UserToPlayer('KU_TtsjKcrU') local me = UserToPlayer("KU_TtsjKcrU") local builder = p.components.builder if builder and me and me.components.talker then me.components.talker:Say(builder.freebuildmode and STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL or STRINGS.UI.MODSSCREEN.STATUS.WORKING_NORMALLY) builder:GiveAllRecipes() end) @(-169.06, 255.83)
+[01:13:14]: Activating portal[9] to 3462456582	
+[01:13:15]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003991
+[01:13:15]: [Shard] Migration request: (KU_Vo3zuukV) to Caves(3462456582)
+[01:13:15]: [Shard] Begin migration #1 for (KU_Vo3zuukV)
+[01:13:15]: [Shard] #1 [SHDMASTER](1) -> Caves(3462456582)
+[01:13:15]: [Shard] #1 <- session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003991
+[01:13:15]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:13:15]: [Steam] SendUserDisconnect for '76561198142785756'
+[01:13:15]: [Shard] (KU_Vo3zuukV) disconnected from [SHDMASTER](1)
+[01:13:26]: [Shard] Completed migration #1 for player (KU_Vo3zuukV)
+[01:13:26]: [Shard] Writing save location file for (KU_Vo3zuukV)
+[01:14:21]: Hound attack: 401.03766688084	
+[01:14:22]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003991
+[01:14:22]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003991
+[01:14:22]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003991
+[01:14:23]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003991
+[01:14:23]: Serializing world: session/76D34F6E3AE97ED5/0000003991
+[01:15:53]: [Shard] Begin migration #2 for (KU_Vo3zuukV)
+[01:15:53]: [Shard] #2 Caves(3462456582) -> [SHDMASTER](1)
+[01:15:53]: [Shard] #2 -> session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003992
+[01:15:53]: [Shard] Received migration #2 data for (KU_Vo3zuukV)
+[01:15:53]: [Shard] (KU_Vo3zuukV) disconnected from Caves(3462456582)
+[01:16:06]: [P2P] Received from 106.141.97.44|1 '76561198142785756'
+[01:16:06]: [P2P] Sent to 106.141.97.44|1 '76561198142785756'
+[01:16:07]: New incoming connection 106.141.97.44|1 <3081043001370180648>
+[01:16:07]: Client connected from 106.141.97.44|1 <3081043001370180648>
+[01:16:07]: ValidateGameSessionToken pgs-sing^KU_Vo3zuukV^DontStarveTogether^HPeIGhYtWOFnvexSRD9HfqErpM6YZ0rYgdDBipHjmno= for <3081043001370180648>
+[01:16:08]: Client authenticated: (KU_Vo3zuukV) dbe067~維
+[01:16:08]: [Steam] SendUserConnectAndAuthenticate for '76561198142785756'
+[01:16:08]: [Steam] Authenticated client '76561198142785756'
+[01:16:08]: [Shard] Completed incoming migration #2 for (KU_Vo3zuukV)
+[01:16:08]: [Shard] Completed migration #2 for player (KU_Vo3zuukV)
+[01:16:08]: [Shard] Writing save location file for (KU_Vo3zuukV)
+[01:16:18]: Resuming user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003992
+[01:16:18]: Player will spawn close to portal #9	
+[01:16:18]: Spawning player at: [Load] (-178.60, 0.00, -55.12)	
+[01:17:40]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil and player.Transform then local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab('bearger') if inst ~= nil and inst.components then if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end else inst.Transform:SetPosition(x,y,z) end end end end) @(-156.58, 550.42)
+[01:19:18]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(-146.88, 580.08)
+[01:19:24]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(-149.40, 578.57)
+[01:19:34]: KU_MitzUqYv	running text command:	pose	true	
+[01:19:40]: KU_MitzUqYv	running text command:	dance	true	
+[01:19:44]: KU_MitzUqYv	running text command:	dance	true	
+[01:21:02]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-155.30, 559.99)
+[01:22:22]: Hound attack: 3726.799477837	
+[01:22:23]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003992
+[01:22:23]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003992
+[01:22:23]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003992
+[01:22:23]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003992
+[01:22:23]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003992
+[01:22:24]: Serializing world: session/76D34F6E3AE97ED5/0000003992
+[01:22:52]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-143.65, 567.17)
+[01:22:58]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local p = UserToPlayer('KU_TtsjKcrU') local me = UserToPlayer("KU_TtsjKcrU") local builder = p.components.builder if builder and me and me.components.talker then me.components.talker:Say(builder.freebuildmode and STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL or STRINGS.UI.MODSSCREEN.STATUS.WORKING_NORMALLY) builder:GiveAllRecipes() end) @(-131.82, 589.99)
+[01:23:02]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local p = UserToPlayer('KU_TtsjKcrU') local me = UserToPlayer("KU_TtsjKcrU") local builder = p.components.builder if builder and me and me.components.talker then me.components.talker:Say(builder.freebuildmode and STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL or STRINGS.UI.MODSSCREEN.STATUS.WORKING_NORMALLY) builder:GiveAllRecipes() end) @(-132.01, 590.31)
+[01:24:17]: [Steam] SendUserDisconnect for '76561198189824466'
+[01:24:17]: Connection lost to 106.141.97.41|1 <2978322266836199668>
+[01:24:17]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[01:24:17]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003993
+[01:24:59]: Could not find anim [death] in bank [ghost]
+[01:24:59]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003993
+[01:25:31]: Could not find anim [idle_loop] in bank [ghost]
+[01:25:35]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003993
+[01:28:35]: Could not find anim [death] in bank [ghost]
+[01:28:35]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003993
+[01:28:49]: Could not find anim [idle_loop] in bank [ghost]
+[01:28:52]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003993
+[01:30:09]: [200] Account Communication Success (6)
+[01:30:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[01:30:23]: Hound attack: 3246.7994528031	
+[01:30:24]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003993
+[01:30:24]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003993
+[01:30:24]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003993
+[01:30:24]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003993
+[01:30:25]: Serializing world: session/76D34F6E3AE97ED5/0000003993
+[01:32:15]: [Steam] SendUserDisconnect for '76561198099860495'
+[01:32:15]: Connection lost to 106.141.97.42|1 <8301567662064748278>
+[01:32:15]: [Shard] (KU_MitzUqYv) disconnected from [SHDMASTER](1)
+[01:32:16]: Serializing user: session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003994
+[01:32:37]: [P2P] Connection failed for '76561198099860495'
+[01:34:17]: [P2P] Session timed out for '76561198189824466'
+[01:34:17]: [P2P] Remove session: 106.141.97.41|1 '76561198189824466'
+[01:38:23]: Hound attack: 2766.8327611042	
+[01:38:25]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003994
+[01:38:25]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003994
+[01:38:25]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003994
+[01:38:25]: Serializing world: session/76D34F6E3AE97ED5/0000003994
+[01:38:38]: Could not find anim [death] in bank [ghost]
+[01:38:38]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003995
+[01:39:12]: Could not find anim [idle_loop] in bank [ghost]
+[01:39:15]: Could not find anim [transform] in bank [wilson]
+[01:39:16]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003995
+[01:42:15]: [P2P] Session timed out for '76561198099860495'
+[01:42:15]: [P2P] Remove session: 106.141.97.42|1 '76561198099860495'
+[01:43:12]: [P2P] Create session: 106.141.97.45|1 '76561198189824466'
+[01:43:12]: [P2P] Received from 106.141.97.45|1 '76561198189824466'
+[01:43:12]: [P2P] Sent to 106.141.97.45|1 '76561198189824466'
+[01:43:13]: New incoming connection 106.141.97.45|1 <3076098162772121258>
+[01:43:13]: Client connected from 106.141.97.45|1 <3076098162772121258>
+[01:43:13]: ValidateGameSessionToken pgs-sing^KU_3aPAZWmD^DontStarveTogether^Gs9EXBRCUCObe5jPaHh22ZzC8/VX+QRsN0JwBggNZZ4= for <3076098162772121258>
+[01:43:13]: Client authenticated: (KU_3aPAZWmD) ルビー
+[01:43:14]: [Steam] SendUserConnectAndAuthenticate for '76561198189824466'
+[01:43:14]: [Steam] Authenticated client '76561198189824466'
+[01:43:17]: [Shard] Read save location file for (KU_3aPAZWmD)
+[01:43:32]: [Steam] SendUserDisconnect for '76561198142785756'
+[01:43:32]: Connection lost to 106.141.97.44|1 <3081043001370180648>
+[01:43:32]: [Shard] (KU_Vo3zuukV) disconnected from [SHDMASTER](1)
+[01:43:32]: Serializing user: session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003995
+[01:43:44]: KU_BIj2U1ZB	running text command:	robot	true	
+[01:44:23]: KU_BIj2U1ZB	running text command:	robot	true	
+[01:44:53]: KU_BIj2U1ZB	running text command:	chicken	true	
+[01:44:54]: KU_BIj2U1ZB	running text command:	robot	true	
+[01:45:22]: Resuming user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003993
+[01:45:23]: Spawning player at: [Load] (269.77, 0.00, -108.63)	
+[01:46:24]: Hound attack: 2286.8327360703	
+[01:46:25]: KU_3aPAZWmD	running text command:	robot	true	
+[01:46:25]: KU_TtsjKcrU	running text command:	flex	true	
+[01:46:26]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003995
+[01:46:26]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003995
+[01:46:26]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003995
+[01:46:26]: Serializing world: session/76D34F6E3AE97ED5/0000003995
+[01:49:48]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(389.62, -50.74)
+[01:50:39]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(426.72, -62.82)
+[01:50:41]: Activating portal[6] to 3462456582	
+[01:50:41]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003996
+[01:50:41]: [Shard] Migration request: (KU_TtsjKcrU) to Caves(3462456582)
+[01:50:41]: [Shard] Begin migration #3 for (KU_TtsjKcrU)
+[01:50:41]: [Shard] #3 [SHDMASTER](1) -> Caves(3462456582)
+[01:50:41]: [Shard] #3 <- session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003996
+[01:50:41]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:50:41]: [Steam] SendUserDisconnect for '76561198251790870'
+[01:50:41]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[01:50:53]: [Shard] Completed migration #3 for player (KU_TtsjKcrU)
+[01:50:53]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[01:51:56]: [P2P] Session request for '76561198031035145'
+[01:52:00]: [P2P] Create session: 106.141.97.46|1 '76561198031035145'
+[01:52:00]: [P2P] Received from 106.141.97.46|1 '76561198031035145'
+[01:52:00]: [P2P] Sent to 106.141.97.46|1 '76561198031035145'
+[01:52:05]: New incoming connection 106.141.97.46|1 <2554243887958132456>
+[01:52:05]: Client connected from 106.141.97.46|1 <2554243887958132456>
+[01:52:05]: ValidateGameSessionToken pgs-sing^KU_UEtQ29K_^DontStarveTogether^FoD745i8QzLILq3EJn3HFyCmnkYUSI6obJcqACED1Tg= for <2554243887958132456>
+[01:52:05]: Client authenticated: (KU_UEtQ29K_) 雷克
+[01:52:05]: [Steam] SendUserConnectAndAuthenticate for '76561198031035145'
+[01:52:06]: [Steam] Authenticated client '76561198031035145'
+[01:52:08]: [Shard] Read save location file for (KU_UEtQ29K_)
+[01:53:32]: [P2P] Session timed out for '76561198142785756'
+[01:53:32]: [P2P] Remove session: 106.141.97.44|1 '76561198142785756'
+[01:53:38]: Resuming user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003972
+[01:53:38]: Spawning player at: [Load] (-177.99, 0.00, -56.55)	
+[01:53:42]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:54:25]: Hound attack: 1806.8660443714	
+[01:54:26]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003996
+[01:54:26]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003996
+[01:54:26]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003996
+[01:54:27]: Serializing world: session/76D34F6E3AE97ED5/0000003996
+[01:55:18]: [Shard] Begin migration #4 for (KU_TtsjKcrU)
+[01:55:18]: [Shard] #4 Caves(3462456582) -> [SHDMASTER](1)
+[01:55:18]: [Shard] #4 -> session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003997
+[01:55:18]: [Shard] Received migration #4 data for (KU_TtsjKcrU)
+[01:55:19]: [Shard] (KU_TtsjKcrU) disconnected from Caves(3462456582)
+[01:55:28]: [P2P] Received from 106.141.97.39|1 '76561198251790870'
+[01:55:28]: [P2P] Sent to 106.141.97.39|1 '76561198251790870'
+[01:55:28]: New incoming connection 106.141.97.39|1 <328826982618519695>
+[01:55:28]: Client connected from 106.141.97.39|1 <328826982618519695>
+[01:55:28]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^SlL/0IZTyCunfIbcnvWdQ9AawxUxbQ4fFA1IZ+bgTzI= for <328826982618519695>
+[01:55:29]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[01:55:29]: [Steam] Authenticated host '76561198251790870'
+[01:55:29]: [Shard] Completed incoming migration #4 for (KU_TtsjKcrU)
+[01:55:29]: [Shard] Completed migration #4 for player (KU_TtsjKcrU)
+[01:55:29]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[01:55:40]: Resuming user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003997
+[01:55:40]: Player will spawn close to portal #6	
+[01:55:40]: Spawning player at: [Load] (424.09, 0.00, -71.02)	
+[01:58:15]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:17]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:21]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:24]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:27]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:29]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:31]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:33]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:35]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:38]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:40]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:45]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:47]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:49]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:51]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:52]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:54]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:57]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:58:59]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:01]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:11]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:14]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:16]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:17]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:19]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:20]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:21]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:23]: KU_BIj2U1ZB	running text command:	squat	true	
+[01:59:29]: KU_BIj2U1ZB	running text command:	sit	true	
+[01:59:31]: KU_BIj2U1ZB	running text command:	slowclap	true	
+[01:59:35]: KU_BIj2U1ZB	running text command:	squat	true	
+[01:59:37]: KU_BIj2U1ZB	running text command:	squat	true	
+[01:59:39]: KU_BIj2U1ZB	running text command:	squat	true	
+[01:59:56]: KU_BIj2U1ZB	running text command:	squat	true	
+[01:59:59]: KU_BIj2U1ZB	running text command:	squat	true	
+[02:00:01]: KU_BIj2U1ZB	running text command:	squat	true	
+[02:00:03]: KU_BIj2U1ZB	running text command:	squat	true	
+[02:00:08]: KU_UEtQ29K_	running text command:	squat	true	
+[02:00:09]: [200] Account Communication Success (6)
+[02:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[02:00:18]: KU_TtsjKcrU	running text command:	flex	true	
+[02:00:37]: KU_TtsjKcrU	running text command:	flex	true	
+[02:00:38]: KU_BIj2U1ZB	running text command:	squat	true	
+[02:00:50]: KU_BIj2U1ZB	running text command:	squat	true	
+[02:00:54]: Could not find anim [death] in bank [ghost]
+[02:00:54]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003997
+[02:01:20]: Could not find anim [idle_loop] in bank [ghost]
+[02:01:23]: Could not find anim [transform] in bank [wilson]
+[02:01:24]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003997
+[02:01:42]: KU_BIj2U1ZB	running text command:	squat	true	
+[02:02:26]: Hound attack: 1326.8993526725	
+[02:02:27]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003997
+[02:02:27]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003997
+[02:02:27]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003997
+[02:02:27]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003997
+[02:02:28]: Serializing world: session/76D34F6E3AE97ED5/0000003997
+[02:02:28]: KU_TtsjKcrU	running text command:	laugh	true	
+[02:02:32]: KU_UEtQ29K_	running text command:	fistshake	true	
+[02:02:35]: KU_TtsjKcrU	running text command:	laugh	true	
+[02:02:38]: KU_TtsjKcrU	running text command:	flex	true	
+[02:02:40]: KU_UEtQ29K_	running text command:	impatient	true	
+[02:02:42]: KU_UEtQ29K_	running text command:	flex	true	
+[02:02:43]: KU_TtsjKcrU	running text command:	shrug	true	
+[02:02:45]: KU_UEtQ29K_	running text command:	happy	true	
+[02:03:10]: KU_TtsjKcrU	running text command:	flex	true	
+[02:03:16]: KU_UEtQ29K_	running text command:	flex	true	
+[02:05:18]: KU_BIj2U1ZB	running text command:	no	true	
+[02:07:13]: KU_BIj2U1ZB	running text command:	chicken	true	
+[02:07:17]: KU_BIj2U1ZB	running text command:	step	true	
+[02:09:22]: KU_BIj2U1ZB	running text command:	sit	true	
+[02:09:40]: KU_BIj2U1ZB	running text command:	sit	true	
+[02:10:13]: KU_BIj2U1ZB	running text command:	slowclap	true	
+[02:10:26]: Hound attack: 846.93266097363	
+[02:10:28]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003998
+[02:10:28]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003998
+[02:10:28]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003998
+[02:10:28]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003998
+[02:10:28]: Serializing world: session/76D34F6E3AE97ED5/0000003998
+[02:10:41]: KU_BIj2U1ZB	running text command:	squat	true	
+[02:12:51]: KU_BIj2U1ZB	running text command:	swoon	true	
+[02:12:54]: KU_BIj2U1ZB	running text command:	step	true	
+[02:16:04]: KU_UEtQ29K_	running text command:	slowclap	true	
+[02:16:10]: KU_UEtQ29K_	running text command:	shrug	true	
+[02:16:12]: KU_UEtQ29K_	running text command:	squat	true	
+[02:16:14]: KU_UEtQ29K_	running text command:	sit	true	
+[02:16:16]: KU_UEtQ29K_	running text command:	sit	true	
+[02:17:45]: KU_UEtQ29K_	running text command:	sit	true	
+[02:18:27]: Hound attack: 366.93263593968	
+[02:18:29]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003999
+[02:18:29]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003999
+[02:18:29]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003999
+[02:18:29]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003999
+[02:18:29]: Serializing world: session/76D34F6E3AE97ED5/0000003999
+[02:18:50]: Activating portal[9] to 3462456582	
+[02:18:51]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004000
+[02:18:51]: [Shard] Migration request: (KU_BIj2U1ZB) to Caves(3462456582)
+[02:18:51]: [Shard] Begin migration #5 for (KU_BIj2U1ZB)
+[02:18:51]: [Shard] #5 [SHDMASTER](1) -> Caves(3462456582)
+[02:18:51]: [Shard] #5 <- session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004000
+[02:18:51]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:18:51]: [Steam] SendUserDisconnect for '76561198286499269'
+[02:18:51]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[02:19:03]: [Shard] Completed migration #5 for player (KU_BIj2U1ZB)
+[02:19:03]: [Shard] Writing save location file for (KU_BIj2U1ZB)
+[02:20:10]: [Shard] Begin migration #6 for (KU_BIj2U1ZB)
+[02:20:10]: [Shard] #6 Caves(3462456582) -> [SHDMASTER](1)
+[02:20:10]: [Shard] #6 -> session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004000
+[02:20:10]: [Shard] Received migration #6 data for (KU_BIj2U1ZB)
+[02:20:10]: [Shard] (KU_BIj2U1ZB) disconnected from Caves(3462456582)
+[02:20:15]: [P2P] Received from 106.141.97.43|1 '76561198286499269'
+[02:20:15]: [P2P] Sent to 106.141.97.43|1 '76561198286499269'
+[02:20:16]: New incoming connection 106.141.97.43|1 <405915691968837903>
+[02:20:16]: Client connected from 106.141.97.43|1 <405915691968837903>
+[02:20:16]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^k60JLB31iYpSMdw1b4Xn4ZP2GfR9JdeVAQFk3S7iY2w= for <405915691968837903>
+[02:20:16]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[02:20:16]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[02:20:17]: [Steam] Authenticated client '76561198286499269'
+[02:20:17]: [Shard] Completed incoming migration #6 for (KU_BIj2U1ZB)
+[02:20:17]: [Shard] Completed migration #6 for player (KU_BIj2U1ZB)
+[02:20:17]: [Shard] Writing save location file for (KU_BIj2U1ZB)
+[02:20:28]: Resuming user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004000
+[02:20:28]: Player will spawn close to portal #9	
+[02:20:28]: Spawning player at: [Load] (-180.90, 0.00, -56.86)	
+[02:21:12]: KU_TtsjKcrU	running text command:	flex	true	
+[02:21:18]: KU_TtsjKcrU	running text command:	robot	true	
+[02:21:26]: KU_UEtQ29K_	running text command:	step	true	
+[02:21:58]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:02]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:07]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:10]: Activating portal[9] to 3462456582	
+[02:22:10]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004000
+[02:22:10]: [Shard] Migration request: (KU_BIj2U1ZB) to Caves(3462456582)
+[02:22:10]: [Shard] Begin migration #7 for (KU_BIj2U1ZB)
+[02:22:10]: [Shard] #7 [SHDMASTER](1) -> Caves(3462456582)
+[02:22:10]: [Shard] #7 <- session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004000
+[02:22:10]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:22:10]: [Steam] SendUserDisconnect for '76561198286499269'
+[02:22:10]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[02:22:11]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:16]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:20]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:21]: [Shard] Completed migration #7 for player (KU_BIj2U1ZB)
+[02:22:21]: [Shard] Writing save location file for (KU_BIj2U1ZB)
+[02:22:24]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:29]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:35]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:41]: KU_UEtQ29K_	running text command:	step	true	
+[02:22:44]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:46]: KU_UEtQ29K_	running text command:	step	true	
+[02:22:47]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:49]: KU_TtsjKcrU	running text command:	impatient	true	
+[02:22:50]: KU_UEtQ29K_	running text command:	step	true	
+[02:22:52]: KU_TtsjKcrU	running text command:	shrug	true	
+[02:22:52]: KU_UEtQ29K_	running text command:	robot	true	
+[02:22:54]: KU_TtsjKcrU	running text command:	step	true	
+[02:22:57]: KU_UEtQ29K_	running text command:	step	true	
+[02:23:02]: KU_UEtQ29K_	running text command:	step	true	
+[02:24:06]: KU_TtsjKcrU	running text command:	chicken	true	
+[02:24:31]: KU_TtsjKcrU	running text command:	dance	true	
+[02:24:58]: Could not find anim [death] in bank [ghost]
+[02:24:58]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000004000
+[02:26:28]: Hound attack: 2567.4748324821	
+[02:26:29]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004000
+[02:26:29]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000004000
+[02:26:29]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004000
+[02:26:30]: Serializing world: session/76D34F6E3AE97ED5/0000004000
+[02:28:44]: Could not find anim [idle_loop] in bank [ghost]
+[02:28:47]: Could not find anim [transform] in bank [wilson]
+[02:28:49]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000004001
+[02:30:09]: [200] Account Communication Success (6)
+[02:30:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[02:31:37]: KU_TtsjKcrU	running text command:	laugh	true	
+[02:31:43]: KU_TtsjKcrU	running text command:	robot	true	
+[02:32:15]: [P2P] Session timed out for '76561198286499269'
+[02:32:15]: [P2P] Remove session: 106.141.97.43|1 '76561198286499269'
+[02:32:48]: KU_UEtQ29K_	running text command:	robot	true	
+[02:32:53]: KU_UEtQ29K_	running text command:	robot	true	
+[02:32:57]: KU_UEtQ29K_	running text command:	robot	true	
+[02:33:03]: KU_UEtQ29K_	running text command:	robot	true	
+[02:33:11]: KU_UEtQ29K_	running text command:	robot	true	
+[02:33:15]: KU_UEtQ29K_	running text command:	robot	true	
+[02:33:24]: KU_UEtQ29K_	running text command:	chicken	true	
+[02:34:29]: Hound attack: 2087.5081407833	
+[02:34:30]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004001
+[02:34:30]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000004001
+[02:34:30]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004001
+[02:34:31]: Serializing world: session/76D34F6E3AE97ED5/0000004001
+[02:38:00]: KU_UEtQ29K_	running text command:	flex	true	
+[02:40:58]: [Steam] SendUserDisconnect for '76561198031035145'
+[02:40:58]: Connection lost to 106.141.97.46|1 <2554243887958132456>
+[02:40:58]: [Shard] (KU_UEtQ29K_) disconnected from [SHDMASTER](1)
+[02:40:59]: Serializing user: session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000004002
+[02:42:30]: Hound attack: 1607.5414490844	
+[02:42:31]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004002
+[02:42:31]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004002
+[02:42:31]: Serializing world: session/76D34F6E3AE97ED5/0000004002
+[02:47:02]: 綠蘑菇	
+[02:50:30]: Hound attack: 1127.5414240504	
+[02:50:32]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004003
+[02:50:32]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004003
+[02:50:32]: Serializing world: session/76D34F6E3AE97ED5/0000004003
+[02:50:58]: [P2P] Session timed out for '76561198031035145'
+[02:50:58]: [P2P] Remove session: 106.141.97.46|1 '76561198031035145'
+[02:51:16]: [Shard] Begin migration #8 for (KU_BIj2U1ZB)
+[02:51:16]: [Shard] #8 Caves(3462456582) -> [SHDMASTER](1)
+[02:51:16]: [Shard] #8 -> session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004004
+[02:51:16]: [Shard] Received migration #8 data for (KU_BIj2U1ZB)
+[02:51:16]: [Shard] (KU_BIj2U1ZB) disconnected from Caves(3462456582)
+[02:51:25]: [P2P] Create session: 106.141.97.47|1 '76561198286499269'
+[02:51:25]: [P2P] Received from 106.141.97.47|1 '76561198286499269'
+[02:51:25]: [P2P] Sent to 106.141.97.47|1 '76561198286499269'
+[02:51:26]: New incoming connection 106.141.97.47|1 <4337022038184899835>
+[02:51:26]: Client connected from 106.141.97.47|1 <4337022038184899835>
+[02:51:26]: ValidateGameSessionToken pgs-sing^KU_BIj2U1ZB^DontStarveTogether^Whopcd5ESeVOJ09peTF3BNTxCi+pyQm28ReF12shMJE= for <4337022038184899835>
+[02:51:27]: Client authenticated: (KU_BIj2U1ZB) 提爾詩
+[02:51:27]: [Steam] SendUserConnectAndAuthenticate for '76561198286499269'
+[02:51:27]: [Steam] Authenticated client '76561198286499269'
+[02:51:27]: [Shard] Completed incoming migration #8 for (KU_BIj2U1ZB)
+[02:51:27]: [Shard] Completed migration #8 for player (KU_BIj2U1ZB)
+[02:51:27]: [Shard] Writing save location file for (KU_BIj2U1ZB)
+[02:51:39]: Resuming user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004004
+[02:51:39]: Player will spawn close to portal #9	
+[02:51:39]: Spawning player at: [Load] (-178.61, 0.00, -55.11)	
+[02:52:10]: [Steam] SendUserDisconnect for '76561198189824466'
+[02:52:10]: Connection lost to 106.141.97.45|1 <3076098162772121258>
+[02:52:10]: [Shard] (KU_3aPAZWmD) disconnected from [SHDMASTER](1)
+[02:52:11]: Serializing user: session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004004
+[02:53:03]: KU_BIj2U1ZB	running text command:	sit	true	
+[02:53:10]: [P2P] Connection failed for '76561198189824466'
+[02:55:56]: [P2P] Session request for '76561198226632280'
+[02:55:59]: [P2P] Create session: 106.141.97.48|1 '76561198226632280'
+[02:55:59]: [P2P] Received from 106.141.97.48|1 '76561198226632280'
+[02:55:59]: [P2P] Sent to 106.141.97.48|1 '76561198226632280'
+[02:56:06]: New incoming connection 106.141.97.48|1 <8050285962684325844>
+[02:56:06]: Client connected from 106.141.97.48|1 <8050285962684325844>
+[02:56:06]: ValidateGameSessionToken pgs-sing^KU_3RvV9UB5^DontStarveTogether^pgsTdoBBL2Axyr4cQEviH4o4bxIvkCFFVa/sAv8yDA8= for <8050285962684325844>
+[02:56:06]: Client authenticated: (KU_3RvV9UB5) 玉米貓
+[02:56:06]: [Steam] SendUserConnectAndAuthenticate for '76561198226632280'
+[02:56:07]: [Steam] Authenticated client '76561198226632280'
+[02:56:09]: [Shard] Read save location file for (KU_3RvV9UB5)
+[02:57:05]: Activating portal[9] to 3462456582	
+[02:57:06]: Serializing user: session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004004
+[02:57:06]: [Shard] Migration request: (KU_BIj2U1ZB) to Caves(3462456582)
+[02:57:06]: [Shard] Begin migration #9 for (KU_BIj2U1ZB)
+[02:57:06]: [Shard] #9 [SHDMASTER](1) -> Caves(3462456582)
+[02:57:06]: [Shard] #9 <- session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004004
+[02:57:06]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[02:57:06]: [Steam] SendUserDisconnect for '76561198286499269'
+[02:57:06]: [Shard] (KU_BIj2U1ZB) disconnected from [SHDMASTER](1)
+[02:57:17]: [Shard] Completed migration #9 for player (KU_BIj2U1ZB)
+[02:57:17]: [Shard] Writing save location file for (KU_BIj2U1ZB)
+[02:58:31]: Hound attack: 647.57473235156	
+[02:58:32]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004004
+[02:58:33]: Serializing world: session/76D34F6E3AE97ED5/0000004004
+[02:58:45]: Resuming user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003957
+[02:58:45]: Spawning player at: [Load] (267.20, 0.00, -93.79)	
+[03:00:09]: [200] Account Communication Success (6)
+[03:00:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[03:02:10]: [P2P] Session timed out for '76561198189824466'
+[03:02:10]: [P2P] Remove session: 106.141.97.45|1 '76561198189824466'
+[03:02:14]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-643.61, -311.70)
+[03:02:19]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-631.45, -315.76)
+[03:02:23]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-627.79, -319.07)
+[03:04:46]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil and player.Transform then local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab('bearger') if inst ~= nil and inst.components then if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end else inst.Transform:SetPosition(x,y,z) end end end end) @(-577.84, -172.48)
+[03:04:50]: Could not find anim [death] in bank [ghost]
+[03:04:50]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004005
+[03:06:32]: Hound attack: 167.60804065268	
+[03:06:33]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004005
+[03:06:33]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004005
+[03:06:34]: Serializing world: session/76D34F6E3AE97ED5/0000004005
+[03:07:10]: [P2P] Session timed out for '76561198286499269'
+[03:07:10]: [P2P] Remove session: 106.141.97.47|1 '76561198286499269'
+[03:10:10]: Could not find anim [idle_loop] in bank [ghost]
+[03:10:13]: Could not find anim [transform] in bank [wilson]
+[03:10:15]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004006
+[03:12:08]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-580.05, -149.11)
+[03:12:13]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-578.89, -150.50)
+[03:12:54]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if player ~= nil and player.Transform then local x,y,z = player.Transform:GetWorldPosition() for i = 1, 1 or 1 do local inst = SpawnPrefab('bearger') if inst ~= nil and inst.components then if inst.components.inventoryitem ~= nil then if player.components and player.components.inventory then player.components.inventory:GiveItem(inst) end else inst.Transform:SetPosition(x,y,z) end end end end) @(-677.75, -261.84)
+[03:14:33]: Hound attack: 1953.6419644399	
+[03:14:34]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004006
+[03:14:34]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004006
+[03:14:34]: Serializing world: session/76D34F6E3AE97ED5/0000004006
+[03:14:57]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') if not player or player:HasTag("playerghost") then return end local inv = player.components.inventory local x, y, z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x, y, z, 30, { "_inventoryitem" }, { "INLIMBO", "NOCLICK", "catchable", "fire" }) local baits = { ["powcake"] = true, ["pigskin"] = true, ["winter_food4"] = true, } local function Wall(item) local xx, yy ,zz = item.Transform:GetWorldPosition() local nents = TheSim:FindEntities(xx, yy, zz, 3) local targets = 0 for _, vv in ipairs(nents) do if vv:HasTag("wall") and vv.components.health then targets = targets + 1 end end return targets end for _, v in ipairs(ents) do local c = v.components if c.inventoryitem ~= nil and c.inventoryitem.canbepickedup and c.inventoryitem.cangoincontainer and not c.inventoryitem:IsHeld() and not v:HasTag("flower") and not v:HasTag("trap") and not v:HasTag("mine") and not v:HasTag("cage") and not string.find(v.prefab, "mooneye") and inv and inv:CanAcceptCount(v, 1) > 0 then if c.trap ~= nil and c.trap:IsSprung() then c.trap:Harvest(player) else if baits[v.prefab] then if Wall(v) < 7 then inv:GiveItem(v) end else if c.bait then if not c.bait.trap then inv:GiveItem(v) end else inv:GiveItem(v) end end end end end) @(-677.97, -219.16)
+[03:14:59]: Could not find anim [death] in bank [ghost]
+[03:14:59]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004007
+[03:17:39]: Could not find anim [idle_loop] in bank [ghost]
+[03:17:42]: Could not find anim [transform] in bank [wilson]
+[03:17:43]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004007
+[03:19:04]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local player = UserToPlayer('KU_TtsjKcrU') local function InInv(b) local inv = b.components.inventoryitem return inv and inv.owner and true or false end local function CanDelete(inst) if inst and inst ~= TheWorld and not InInv(inst) and inst.Transform then if inst:HasTag("player") then if inst.userid == nil or inst.userid == "" then return true end else return true end end return false end if player and player.Transform then if player.components.burnable then player.components.burnable:Extinguish(true) end local x,y,z = player.Transform:GetWorldPosition() local ents = TheSim:FindEntities(x,y,z, 3) for _, obj in pairs(ents) do if CanDelete(obj) then if obj.components then if obj.components.burnable then obj.components.burnable:Extinguish(true) end if obj.components.firefx then if obj.components.firefx.extinguishsoundtest then obj.components.firefx.extinguishsoundtest = function() return true end end obj.components.firefx:Extinguish() end end if (not (obj.prefab == "minerhatlight" or "lanternlight" or "yellowamuletlight" or "slurperlight" or "redlanternlight" or "lighterfire" or "torchfire" or "torchfire_rag" or "torchfire_spooky" or "torchfire_shadow")) or (obj.entity:GetParent() == nil) then obj:Remove() end end end end) @(-687.27, -230.20)
+[03:19:53]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local p = UserToPlayer('KU_TtsjKcrU') local me = UserToPlayer("KU_TtsjKcrU") local builder = p.components.builder if builder and me and me.components.talker then me.components.talker:Say(builder.freebuildmode and STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL or STRINGS.UI.MODSSCREEN.STATUS.WORKING_NORMALLY) builder:GiveAllRecipes() end) @(-655.10, -251.67)
+[03:19:58]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local p = UserToPlayer('KU_TtsjKcrU') local me = UserToPlayer("KU_TtsjKcrU") if p and me then local function SetGodeMode() if p.components.health and me.components.talker then local mode = p.components.health.invincible me.components.talker:Say(mode and STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL or STRINGS.UI.MODSSCREEN.STATUS.WORKING_NORMALLY) p.components.health:SetInvincible(not mode) end end if p:HasTag("playerghost") then p:PushEvent("respawnfromghost") p:DoTaskInTime(1, SetGodeMode) else SetGodeMode() end end) @(-653.50, -253.12)
+[03:22:33]: Hound attack: 1473.6752727411	
+[03:22:35]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004007
+[03:22:35]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004007
+[03:22:35]: Serializing world: session/76D34F6E3AE97ED5/0000004007
+[03:22:55]: [(KU_TtsjKcrU) AierLuosen] ReceiveRemoteExecute(local p = UserToPlayer('KU_TtsjKcrU') local me = UserToPlayer("KU_TtsjKcrU") local builder = p.components.builder if builder and me and me.components.talker then me.components.talker:Say(builder.freebuildmode and STRINGS.UI.MODSSCREEN.STATUS.DISABLED_MANUAL or STRINGS.UI.MODSSCREEN.STATUS.WORKING_NORMALLY) builder:GiveAllRecipes() end) @(263.07, -104.17)
+[03:28:58]: Activating portal[9] to 3462456582	
+[03:28:59]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004008
+[03:28:59]: [Shard] Migration request: (KU_TtsjKcrU) to Caves(3462456582)
+[03:28:59]: [Shard] Begin migration #10 for (KU_TtsjKcrU)
+[03:28:59]: [Shard] #10 [SHDMASTER](1) -> Caves(3462456582)
+[03:28:59]: [Shard] #10 <- session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004008
+[03:28:59]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:28:59]: [Steam] SendUserDisconnect for '76561198251790870'
+[03:28:59]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[03:29:10]: [Shard] Completed migration #10 for player (KU_TtsjKcrU)
+[03:29:10]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[03:30:09]: [200] Account Communication Success (6)
+[03:30:09]: Received (KU_TtsjKcrU) from TokenPurpose
+[03:30:34]: Hound attack: 993.70858104217	
+[03:30:35]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004008
+[03:30:36]: Serializing world: session/76D34F6E3AE97ED5/0000004008
+[03:38:35]: Hound attack: 513.74188934329	
+[03:38:36]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004009
+[03:38:37]: Serializing world: session/76D34F6E3AE97ED5/0000004009
+[03:39:04]: [P2P] Session timed out for '76561198251790870'
+[03:39:04]: [P2P] Remove session: 106.141.97.39|1 '76561198251790870'
+[03:46:36]: Hound attack: 33.775197644416	
+[03:46:37]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004010
+[03:46:37]: Serializing world: session/76D34F6E3AE97ED5/0000004010
+[03:46:53]: [Shard] Begin migration #11 for (KU_TtsjKcrU)
+[03:46:53]: [Shard] #11 Caves(3462456582) -> [SHDMASTER](1)
+[03:46:53]: [Shard] #11 -> session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004011
+[03:46:53]: [Shard] Received migration #11 data for (KU_TtsjKcrU)
+[03:46:53]: [Shard] (KU_TtsjKcrU) disconnected from Caves(3462456582)
+[03:47:02]: [P2P] Create session: 106.141.97.49|1 '76561198251790870'
+[03:47:02]: [P2P] Received from 106.141.97.49|1 '76561198251790870'
+[03:47:02]: [P2P] Sent to 106.141.97.49|1 '76561198251790870'
+[03:47:03]: New incoming connection 106.141.97.49|1 <6694916650671057208>
+[03:47:03]: Client connected from 106.141.97.49|1 <6694916650671057208>
+[03:47:03]: ValidateGameSessionToken pgs-sing^KU_TtsjKcrU^DontStarveTogether^cGaT+K5P4Yr1wIYBF3IeZTaAuz0sP8ZWLR9rDD5v0q4= for <6694916650671057208>
+[03:47:04]: Client authenticated: (KU_TtsjKcrU) AierLuosen
+[03:47:04]: [Steam] Authenticated host '76561198251790870'
+[03:47:04]: [Shard] Completed incoming migration #11 for (KU_TtsjKcrU)
+[03:47:04]: [Shard] Completed migration #11 for player (KU_TtsjKcrU)
+[03:47:04]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[03:47:15]: Resuming user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004011
+[03:47:16]: Player will spawn close to portal #9	
+[03:47:16]: Spawning player at: [Load] (-179.07, 0.00, -54.88)	
+[03:51:25]: [Steam] SendUserDisconnect for '76561198226632280'
+[03:51:25]: Connection lost to 106.141.97.48|1 <8050285962684325844>
+[03:51:25]: [Shard] (KU_3RvV9UB5) disconnected from [SHDMASTER](1)
+[03:51:25]: Serializing user: session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004011
+[03:53:04]: [P2P] Connection failed for '76561198226632280'
+[03:53:53]: Activating portal[9] to 3462456582	
+[03:53:53]: Serializing user: session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004011
+[03:53:53]: [Shard] Migration request: (KU_TtsjKcrU) to Caves(3462456582)
+[03:53:53]: [Shard] Begin migration #12 for (KU_TtsjKcrU)
+[03:53:53]: [Shard] #12 [SHDMASTER](1) -> Caves(3462456582)
+[03:53:53]: [Shard] #12 <- session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004011
+[03:53:53]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[03:53:53]: [Steam] SendUserDisconnect for '76561198251790870'
+[03:53:53]: [Shard] (KU_TtsjKcrU) disconnected from [SHDMASTER](1)
+[03:54:04]: [Shard] Completed migration #12 for player (KU_TtsjKcrU)
+[03:54:04]: [Shard] Writing save location file for (KU_TtsjKcrU)
+[03:54:36]: Hound attack: 2129.8167285413	
+[03:54:38]: Serializing world: session/76D34F6E3AE97ED5/0000004011
+[03:54:38]: Truncating to snapshot #4011...
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003977
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003978
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003979
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003980
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003981
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003982
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003983
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003984
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003985
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003986
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003987
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003988
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003989
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003990
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003991
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003992
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003993
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003994
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003995
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003996
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003997
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003998
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000003999
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000004000
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000004001
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000004002
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000004003
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000004004
+[03:54:38]:  - session/76D34F6E3AE97ED5/0000004005
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004003
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004002
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004001
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000004000
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003999
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003998
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003997
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003996
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003995
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003993
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003992
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003991
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003990
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003989
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003988
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003987
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003986
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003985
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003984
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003983
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003979
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003978
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3aPAZWmD_/0000003975
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004005
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000003957
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000004000
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003999
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003998
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003997
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003996
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003995
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003994
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003993
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003992
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003991
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003990
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003989
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003988
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003987
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003986
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003984
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003983
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_BIj2U1ZB_/0000003959
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_M673WWQo_/0000003978
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_M673WWQo_/0000003975
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003993
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003992
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003991
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003990
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003989
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003988
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003987
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003986
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003985
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003984
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003983
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003979
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003978
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_MitzUqYv_/0000003975
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004005
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004004
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004003
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004002
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004001
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004000
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003999
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003998
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003997
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003996
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003995
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003994
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003993
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003992
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003991
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003990
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003989
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003988
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003987
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003986
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003985
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003984
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003983
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003979
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003978
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000003975
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000004001
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000004000
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003999
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003998
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003997
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003996
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_UEtQ29K__/0000003972
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003994
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003993
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003992
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003991
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003990
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003989
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003988
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003987
+[03:54:38]:  - session/76D34F6E3AE97ED5/KU_Vo3zuukV_/0000003861
+[03:54:38]:    130 file(s) removed
+[03:54:38]:  > session/76D34F6E3AE97ED5/KU_3aPAZWmD_/savelocation
+[03:54:38]:  > session/76D34F6E3AE97ED5/KU_M673WWQo_/savelocation
+[03:54:38]:  > session/76D34F6E3AE97ED5/KU_MitzUqYv_/savelocation
+[03:54:38]:  > session/76D34F6E3AE97ED5/KU_TtsjKcrU_/savelocation
+[03:54:38]:  > session/76D34F6E3AE97ED5/KU_Vo3zuukV_/savelocation
+[03:54:38]:    5 file(s) updated
+[03:59:00]: Serializing world: session/76D34F6E3AE97ED5/0000004012
+[03:59:00]: Truncating to snapshot #4012...
+[03:59:00]:  - session/76D34F6E3AE97ED5/0000004006
+[03:59:00]:  - session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004006
+[03:59:00]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004006
+[03:59:00]:    3 file(s) removed
+[03:59:13]: [Shard] (KU_TtsjKcrU) disconnected from Caves(3462456582)
+[03:59:14]: [Shard] (KU_BIj2U1ZB) disconnected from Caves(3462456582)
+[03:59:14]: Sim paused
+[04:00:05]: Serializing world: session/76D34F6E3AE97ED5/0000004013
+[04:00:05]: Truncating to snapshot #4013...
+[04:00:05]:  - session/76D34F6E3AE97ED5/0000004007
+[04:00:05]:  - session/76D34F6E3AE97ED5/KU_3RvV9UB5_/0000004007
+[04:00:05]:  - session/76D34F6E3AE97ED5/KU_TtsjKcrU_/0000004007
+[04:00:05]:    3 file(s) removed
+[04:00:05]: unloading prefabs for mod MOD_workshop-375859599	
+[04:00:05]: unloading prefabs for mod MOD_workshop-1111711682	
+[04:00:05]: unloading prefabs for mod MOD_workshop-501385076	
+[04:00:05]: unloading prefabs for mod MOD_workshop-447092740	
+[04:00:05]: unloading prefabs for mod MOD_workshop-677991540	
+[04:00:05]: unloading prefabs for mod MOD_workshop-770901818	
+[04:00:05]: unloading prefabs for mod MOD_workshop-588560555	
+[04:00:05]: unloading prefabs for mod MOD_workshop-818739975	
+[04:00:05]: unloading prefabs for mod MOD_workshop-626893945	
+[04:00:05]: unloading prefabs for mod MOD_workshop-378160973	
+[04:00:05]: [Shard] Stopping shard mode
+[04:00:06]: Collecting garbage...
+[04:00:06]: lua_gc took 0.33 seconds
+[04:00:06]: ~ShardLuaProxy()
+[04:00:06]: ~ItemServerLuaProxy()
+[04:00:06]: ~InventoryLuaProxy()
+[04:00:06]: ~NetworkLuaProxy()
+[04:00:06]: ~SimLuaProxy()
+[04:00:07]: lua_close took 0.76 seconds
+[04:00:07]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[04:00:07]: shaders/ui_yuv.ksh - 1
+[04:00:07]: CurlRequestManager::ClientThread::Main() complete
+[04:00:07]: HttpClient2 discarded 1 callbacks.
+[04:00:07]: Shutting down

@@ -1,0 +1,248 @@
+[00:02:31]: [Join Announcement] AierLuosen
+[00:03:02]: [Join Announcement] 提爾詩
+[00:04:44]: [Join Announcement] ルビー
+[00:05:23]: [Join Announcement] 讓子彈飛一會兒
+[00:05:35]: [Say] (KU_3aPAZWmD) ルビー: 段段的麥 QQ
+[00:05:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: hi
+[00:05:42]: [Say] (KU_TtsjKcrU) AierLuosen: 安安
+[00:05:43]: [Say] (KU_BIj2U1ZB) 提爾詩: HI
+[00:06:35]: [Leave Announcement] ルビー
+[00:07:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 還沒過三天嗎
+[00:07:16]: [Say] (KU_TtsjKcrU) AierLuosen: 剛入冬
+[00:07:29]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 娜記得我第一天就殺了
+[00:07:36]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 海象
+[00:07:45]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯 你有殺了
+[00:10:15]: [Announcement] Hound Attack: 2 days left
+[00:11:04]: [Join Announcement] ルビー
+[00:12:48]: [Say] (KU_BIj2U1ZB) 提爾詩: 鹿比現在刮鬍子毀冷喔WWWW
+[00:12:51]: [Say] (KU_BIj2U1ZB) 提爾詩: 會
+[00:13:07]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我也括一下好了
+[00:13:09]: [Say] (KU_3aPAZWmD) ルビー: 恩 我知道 但是想說讓她刷新 XD
+[00:13:13]: [Say] (KU_BIj2U1ZB) 提爾詩: WWWW
+[00:13:38]: [Say] (KU_BIj2U1ZB) 提爾詩: 暫離一下下
+[00:13:49]: [Leave Announcement] 提爾詩
+[00:14:21]: [Say] (KU_3aPAZWmD) ルビー: 草生病了 (驚
+[00:16:00]: [Say] (KU_TtsjKcrU) AierLuosen: 你們會卡嗎
+[00:16:05]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: no
+[00:16:08]: [Say] (KU_3aPAZWmD) ルビー: 鰻順的
+[00:16:40]: [Say] (KU_3aPAZWmD) ルビー: 葛洛姆好像死死卡在這了 OAO
+[00:16:46]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 等等就要下高雄了 難過
+[00:16:47]: [Say] (KU_TtsjKcrU) AierLuosen: XDDD
+[00:16:51]: [Say] (KU_TtsjKcrU) AierLuosen: 難過~
+[00:18:16]: [Announcement] Hound Attack: 1 day left
+[00:20:03]: [Say] (KU_3aPAZWmD) ルビー: XD
+[00:21:11]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 叫我歐洲人
+[00:21:15]: [Say] (KU_TtsjKcrU) AierLuosen: 冬王來就跳蟲洞到狗牙陣那邊
+[00:21:21]: [Say] (KU_TtsjKcrU) AierLuosen: 那邊有牛
+[00:21:21]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 看]
+[00:21:21]: [Say] (KU_3aPAZWmD) ルビー: OK
+[00:21:32]: [Say] (KU_TtsjKcrU) AierLuosen: 哪個XD
+[00:21:38]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他把象牙拿走了
+[00:21:42]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[00:21:56]: [Say] (KU_TtsjKcrU) AierLuosen: 讚喔
+[00:21:57]: [Say] (KU_3aPAZWmD) ルビー: SOR
+[00:23:27]: [Say] (KU_TtsjKcrU) AierLuosen: 我去找克勞斯
+[00:23:33]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 好
+[00:23:44]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 他依樣是在落葉林嗎
+[00:23:51]: [Say] (KU_TtsjKcrU) AierLuosen: 不確定
+[00:23:56]: [Say] (KU_TtsjKcrU) AierLuosen: 但豬王那機率高
+[00:24:00]: [Say] (KU_3aPAZWmD) ルビー: 或散區
+[00:24:05]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 通常是在落葉林跟馬賽克
+[00:26:16]: [Announcement] Hound Attack: Today!
+[00:27:07]: [Say] (KU_TtsjKcrU) AierLuosen: 找到了
+[00:27:45]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 哪裡
+[00:27:53]: [Say] (KU_TtsjKcrU) AierLuosen: 我這
+[00:27:59]: [Say] (KU_TtsjKcrU) AierLuosen: 豬王的樺樹林區
+[00:29:25]: [Join Announcement] 提爾詩
+[00:29:33]: [Say] (KU_3aPAZWmD) ルビー: 歡回 OWO/
+[00:33:21]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 要打嗎
+[00:33:40]: [Say] (KU_TtsjKcrU) AierLuosen: 你要打嗎
+[00:36:00]: [Say] (KU_3aPAZWmD) ルビー: 肉球 <3
+[00:36:29]: [Join Announcement] dbe067~維
+[00:37:11]: [Say] (KU_3aPAZWmD) ルビー: OK
+[00:43:27]: [Say] (KU_3aPAZWmD) ルビー: 貝雷帽!!!
+[00:44:44]: [Say] (KU_3aPAZWmD) ルビー: 我放箱子唷 OWO
+[00:45:05]: [Say] (KU_3aPAZWmD) ルビー: 所以現在有四頂
+[00:47:23]: [Say] (KU_3aPAZWmD) ルビー: .....
+[00:47:28]: [Say] (KU_3aPAZWmD) ルビー: 曉薇...
+[00:47:44]: [Say] (KU_3aPAZWmD) ルビー: 火龍果不要採收...
+[00:47:58]: [Say] (KU_3aPAZWmD) ルビー: QWQ
+[00:49:02]: [Say] (KU_3aPAZWmD) ルビー: 農田會燒毀
+[00:57:18]: [Say] (KU_3aPAZWmD) ルビー: 超大聲...
+[00:58:03]: [Say] (KU_3aPAZWmD) ルビー: 這邊
+[00:58:20]: [Announcement] Hound Attack: 2 days left
+[00:59:22]: [Say] (KU_3aPAZWmD) ルビー: 鳥仔腳 030
+[01:00:03]: [Say] (KU_3aPAZWmD) ルビー: 牛牛比較強...
+[01:00:11]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:00:48]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 有蟾蜍皮
+[01:01:04]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 還有?!
+[01:01:39]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我第一次0.75倍攻挑戰
+[01:01:41]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 要死
+[01:01:59]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我剛剛姐姐死了
+[01:02:08]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 都我自己打
+[01:03:51]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:05:31]: [Say] (KU_3aPAZWmD) ルビー: 給我/
+[01:06:20]: [Announcement] Hound Attack: 1 day left
+[01:06:23]: [Say] (KU_3aPAZWmD) ルビー: 有阿 第二鄉的地上ˋ
+[01:07:56]: [Say] (KU_3aPAZWmD) ルビー: 子彈 箱子裡有一頂貝雷帽
+[01:08:09]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: ok
+[01:10:18]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 賣淑呢
+[01:10:32]: [Say] (KU_MitzUqYv) 讓子彈飛一會兒: 我是說艾爾你在哪裡\\
+[01:14:21]: [Announcement] Hound Attack: Today!
+[01:20:07]: [Say] (KU_3aPAZWmD) ルビー: 20天了嗎?
+[01:24:04]: [Say] (KU_3aPAZWmD) ルビー: 暫離
+[01:24:17]: [Leave Announcement] ルビー
+[01:24:59]: [Death Announcement] 讓子彈飛一會兒 死亡，死因： 兔人。她變成了一個令人毛骨悚然的鬼！
+[01:25:31]: [Resurrect Announcement] 讓子彈飛一會兒 復活自 重生護符.
+[01:25:32]: [Skin Announcement] dbe067~維 hand_longgloves_yellow_straw
+[01:28:35]: [Death Announcement] dbe067~維 死亡，死因： 尖喙恐懼化身。他變成了一個令人毛骨悚然的鬼！
+[01:28:49]: [Resurrect Announcement] dbe067~維 復活自 重生護符.
+[01:32:15]: [Leave Announcement] 讓子彈飛一會兒
+[01:38:38]: [Death Announcement] dbe067~維 死亡，死因： 尖喙恐懼化身。他變成了一個令人毛骨悚然的鬼！
+[01:39:12]: [Resurrect Announcement] dbe067~維 復活自 提爾詩.
+[01:43:32]: [Leave Announcement] dbe067~維
+[01:45:13]: [Join Announcement] ルビー
+[01:45:43]: [Say] (KU_3aPAZWmD) ルビー: XD
+[01:46:11]: [Say] (KU_3aPAZWmD) ルビー: Magic~
+[01:53:37]: [Join Announcement] 雷克
+[01:53:58]: [Say] (KU_UEtQ29K_) 雷克: HI
+[01:54:02]: [Say] (KU_TtsjKcrU) AierLuosen: 安安
+[01:54:09]: [Say] (KU_3aPAZWmD) ルビー: 安/
+[01:54:20]: [Say] (KU_UEtQ29K_) 雷克: 蝙蝠坑爹多
+[01:54:58]: [Say] (KU_UEtQ29K_) 雷克: 怎麼有火雞 怕
+[01:55:06]: [Say] (KU_UEtQ29K_) 雷克: 喔喔~ 董ㄌXD
+[01:55:53]: [Say] (KU_TtsjKcrU) AierLuosen:  I have 66 螢光果s.
+[01:56:34]: [Say] (KU_UEtQ29K_) 雷克: 莎火雞囉
+[01:56:59]: [Say] (KU_UEtQ29K_) 雷克: .
+[01:57:02]: [Say] (KU_UEtQ29K_) 雷克: 賣造RRRRRRRRRRRRRRRRRR
+[01:57:09]: [Say] (KU_UEtQ29K_) 雷克: SAD
+[01:58:23]: [Say] (KU_UEtQ29K_) 雷克: 艾爾沒裝SHOW ME齁?
+[01:58:37]: [Say] (KU_TtsjKcrU) AierLuosen: NO 那個太暴露了(?)
+[01:58:41]: [Say] (KU_UEtQ29K_) 雷克: 會嗎XDD
+[01:58:53]: [Say] (KU_TtsjKcrU) AierLuosen: 字太多不喜歡XD
+[01:58:58]: [Say] (KU_UEtQ29K_) 雷克: 好吧XD
+[01:59:02]: [Say] (KU_3aPAZWmD) ルビー: 會直接看到有沒有大包包 不好玩
+[01:59:07]: [Whisper] (KU_BIj2U1ZB) 提爾詩: 動保協會!
+[01:59:11]: [Say] (KU_UEtQ29K_) 雷克: 舒服
+[01:59:30]: [Say] (KU_TtsjKcrU) AierLuosen: :glzW:
+[02:00:54]: [Death Announcement] ルビー 死亡，死因： 蜘蛛。他變成了一個令人毛骨悚然的鬼！
+[02:00:56]: [Say] (KU_TtsjKcrU) AierLuosen: 提爾詩要拍被關進去(?
+[02:00:59]: [Say] (KU_UEtQ29K_) 雷克: 哦哦
+[02:01:20]: [Resurrect Announcement] ルビー 復活自 雷克.
+[02:01:22]: [Say] (KU_BIj2U1ZB) 提爾詩: 看起來有沒有像威爾森被關在裡面WWW
+[02:01:27]: [Say] (KU_3aPAZWmD) ルビー: 3Q
+[02:01:33]: [Say] (KU_UEtQ29K_) 雷克: OWOW
+[02:01:35]: [Say] (KU_UEtQ29K_) 雷克: OWO
+[02:02:21]: [Say] (KU_UEtQ29K_) 雷克: .
+[02:02:23]: [Say] (KU_UEtQ29K_) 雷克: .
+[02:02:24]: [Say] (KU_UEtQ29K_) 雷克: WTF
+[02:02:26]: [Announcement] Hound Attack: 2 days left
+[02:02:52]: [Say] (KU_UEtQ29K_) 雷克: 大雨 RRRRRRRR
+[02:03:05]: [Say] (KU_UEtQ29K_) 雷克: O_O
+[02:03:17]: [Say] (KU_TtsjKcrU) AierLuosen: 眼球很多
+[02:03:26]: [Say] (KU_UEtQ29K_) 雷克: 可以煮個眼球湯什麼的(X
+[02:03:33]: [Say] (KU_BIj2U1ZB) 提爾詩: 怕
+[02:03:34]: [Say] (KU_UEtQ29K_) 雷克: 可以 這很萬聖
+[02:05:12]: [Say] (KU_UEtQ29K_) 雷克: 這個門門好開
+[02:05:30]: [Say] (KU_TtsjKcrU) AierLuosen: 裝飾用的門OuO
+[02:06:05]: [Say] (KU_UEtQ29K_) 雷克: 哦哦
+[02:06:33]: [Say] (KU_UEtQ29K_) 雷克: 玩DST最大的樂趣是打切斯特:3
+[02:07:05]: [Say] (KU_UEtQ29K_) 雷克: 要打掉巢穴嗎
+[02:07:11]: [Say] (KU_3aPAZWmD) ルビー: 恩
+[02:07:17]: [Say] (KU_UEtQ29K_) 雷克: OK
+[02:07:18]: [Say] (KU_TtsjKcrU) AierLuosen: 豬人那的三層要拆
+[02:07:29]: [Say] (KU_TtsjKcrU) AierLuosen: 兔人那的可以不用~
+[02:07:48]: [Say] (KU_UEtQ29K_) 雷克: 交給我就豪
+[02:07:54]: [Say] (KU_3aPAZWmD) ルビー: 好喔
+[02:08:19]: [Say] (KU_UEtQ29K_) 雷克: 好ㄌ
+[02:08:58]: [Say] (KU_UEtQ29K_) 雷克: 近距離觀賞蜘蛛
+[02:10:26]: [Announcement] Hound Attack: 1 day left
+[02:14:15]: [Say] (KU_UEtQ29K_) 雷克: XDD
+[02:14:21]: [Say] (KU_UEtQ29K_) 雷克: 蜘蛛對兔人會說
+[02:14:29]: [Say] (KU_UEtQ29K_) 雷克: "跳遠點，小兔兔"
+[02:14:32]: [Say] (KU_UEtQ29K_) 雷克: XD
+[02:14:36]: [Say] (KU_UEtQ29K_) 雷克: 好挑釁
+[02:14:43]: [Say] (KU_TtsjKcrU) AierLuosen: 萌(?
+[02:18:27]: [Announcement] Hound Attack: Today!
+[02:23:16]: [Say] (KU_UEtQ29K_) 雷克: 同步!
+[02:23:39]: [Say] (KU_TtsjKcrU) AierLuosen: XD
+[02:24:10]: [Say] (KU_TtsjKcrU) AierLuosen: 狗
+[02:24:58]: [Say] (KU_UEtQ29K_) 雷克: .
+[02:24:58]: [Death Announcement] 雷克 死亡，死因： 獵犬。他變成了一個令人毛骨悚然的鬼！
+[02:25:02]: [Say] (KU_UEtQ29K_) 雷克: 沒注意
+[02:25:07]: [Say] (KU_3aPAZWmD) ルビー: 草蜥蜴又要GG熱嗎? QWQ
+[02:25:13]: [Say] (KU_UEtQ29K_) 雷克: 乾QQ
+[02:25:51]: [Say] (KU_UEtQ29K_) 雷克: 狗狗好多..
+[02:26:08]: [Say] (KU_3aPAZWmD) ルビー: 大車隊?
+[02:26:14]: [Say] (KU_UEtQ29K_) 雷克: 怕..
+[02:26:19]: [Say] (KU_3aPAZWmD) ルビー: ...
+[02:26:27]: [Say] (KU_3aPAZWmD) ルビー: 生在裡面...
+[02:26:42]: [Say] (KU_UEtQ29K_) 雷克: 歹勢QWQ
+[02:26:46]: [Say] (KU_3aPAZWmD) ルビー: 要不要回朔個? QWQ
+[02:27:05]: [Say] (KU_3aPAZWmD) ルビー: 此蜥蜴全死而已 QWQ
+[02:27:21]: [Say] (KU_UEtQ29K_) 雷克: 還活著
+[02:27:32]: [Say] (KU_3aPAZWmD) ルビー: 85 g/435
+[02:27:39]: [Say] (KU_3aPAZWmD) ルビー: 8之勝3之
+[02:28:11]: [Say] (KU_3aPAZWmD) ルビー: 還有葛洛姆掛了
+[02:28:23]: [Say] (KU_UEtQ29K_) 雷克: TAT
+[02:28:32]: [Say] (KU_UEtQ29K_) 雷克: 艾爾應該會殺了我QQ
+[02:28:38]: [Say] (KU_UEtQ29K_) 雷克: 不對 我死了
+[02:28:44]: [Resurrect Announcement] 雷克 復活自 AierLuosen.
+[02:30:03]: [Say] (KU_UEtQ29K_) 雷克: ?!
+[02:30:07]: [Say] (KU_UEtQ29K_) 雷克: 會掉葉肉?
+[02:30:14]: [Say] (KU_TtsjKcrU) AierLuosen: 跑出去的就殺掉XD
+[02:30:16]: [Say] (KU_TtsjKcrU) AierLuosen: 黑啊
+[02:30:20]: [Say] (KU_TtsjKcrU) AierLuosen: 他是草系的
+[02:30:22]: [Say] (KU_UEtQ29K_) 雷克: 第一次知道
+[02:30:26]: [Say] (KU_UEtQ29K_) 雷克: 草系XD
+[02:30:28]: [Say] (KU_TtsjKcrU) AierLuosen: 跟食人花一樣
+[02:30:33]: [Say] (KU_UEtQ29K_) 雷克: 哦哦
+[02:30:43]: [Say] (KU_UEtQ29K_) 雷克: 剛剛有隻跑出去 我成功救回他了
+[02:30:57]: [Say] (KU_TtsjKcrU) AierLuosen: 喔喔OuO 我看到會殺XD
+[02:31:00]: [Say] (KU_UEtQ29K_) 雷克: 怕
+[02:31:20]: [Say] (KU_UEtQ29K_) 雷克: 剛剛在YT找歌廳
+[02:31:24]: [Say] (KU_UEtQ29K_) 雷克: 回過神就
+[02:31:26]: [Say] (KU_UEtQ29K_) 雷克: QWQ
+[02:31:33]: [Say] (KU_TtsjKcrU) AierLuosen: 嗯嗯
+[02:31:52]: [Say] (KU_UEtQ29K_) 雷克: 晚點我要請BOOM教我開大服ㄌ
+[02:32:00]: [Say] (KU_UEtQ29K_) 雷克: 我不會用租借伺服器的
+[02:38:39]: [Say] (KU_UEtQ29K_) 雷克: 艾爾的服有自燃嗎?
+[02:38:44]: [Say] (KU_TtsjKcrU) AierLuosen: 有
+[02:38:47]: [Say] (KU_UEtQ29K_) 雷克: 哦哦
+[02:38:49]: [Say] (KU_TtsjKcrU) AierLuosen: 怎麼了
+[02:38:57]: [Say] (KU_UEtQ29K_) 雷克: 沒 看到下面一排樹 感覺會燒掉
+[02:39:02]: [Say] (KU_TtsjKcrU) AierLuosen: 豬人兔人那邊才會有雪球機
+[02:39:08]: [Say] (KU_UEtQ29K_) 雷克: XD
+[02:39:16]: [Say] (KU_TtsjKcrU) AierLuosen: 那是阿呆種的XD
+[02:39:20]: [Say] (KU_UEtQ29K_) 雷克: 哦哦XD
+[02:40:02]: [Say] (KU_UEtQ29K_) 雷克: 我準備出門了QWQ
+[02:40:08]: [Say] (KU_TtsjKcrU) AierLuosen: 好喔~掰掰掰
+[02:40:12]: [Say] (KU_UEtQ29K_) 雷克: 我剛剛是不是看到黑手手
+[02:40:15]: [Say] (KU_UEtQ29K_) 雷克: 怕
+[02:40:24]: [Say] (KU_TtsjKcrU) AierLuosen: 兄弟的手手(?
+[02:40:30]: [Say] (KU_TtsjKcrU) AierLuosen: lol
+[02:40:31]: [Say] (KU_UEtQ29K_) 雷克: 怕
+[02:40:38]: [Say] (KU_UEtQ29K_) 雷克: 掰掰~~
+[02:40:41]: [Say] (KU_TtsjKcrU) AierLuosen: 8888
+[02:40:58]: [Leave Announcement] 雷克
+[02:50:30]: [Announcement] Hound Attack: 2 days left
+[02:51:41]: [Say] (KU_3aPAZWmD) ルビー: 我還是先休息一下好了 再度辜 XD
+[02:51:46]: [Say] (KU_TtsjKcrU) AierLuosen: 好喔XD
+[02:51:54]: [Say] (KU_3aPAZWmD) ルビー: 晚安 XD
+[02:51:58]: [Say] (KU_TtsjKcrU) AierLuosen: !sleep 鹿比
+[02:52:10]: [Leave Announcement] ルビー
+[02:58:31]: [Announcement] Hound Attack: 1 day left
+[02:58:41]: [Join Announcement] 玉米貓
+[03:04:50]: [Death Announcement] AierLuosen 死亡，死因： 熊獾。他變成了一個令人毛骨悚然的鬼！
+[03:06:32]: [Announcement] Hound Attack: Today!
+[03:10:10]: [Resurrect Announcement] AierLuosen 復活自 玉米貓.
+[03:14:59]: [Death Announcement] AierLuosen 死亡，死因： 火。他變成了一個令人毛骨悚然的鬼！
+[03:17:39]: [Resurrect Announcement] AierLuosen 復活自 玉米貓.
+[03:30:34]: [Announcement] Hound Attack: 2 days left
+[03:37:29]: [Say] (KU_TtsjKcrU) AierLuosen: 等等夏1就關囉~
+[03:38:35]: [Announcement] Hound Attack: 1 day left
+[03:46:36]: [Announcement] Hound Attack: Today!
+[03:51:10]: [Say] (KU_3RvV9UB5) 玉米貓: 那我先下囉~
+[03:51:25]: [Leave Announcement] 玉米貓
+[03:59:13]: [Leave Announcement] AierLuosen
+[03:59:14]: [Leave Announcement] 提爾詩
